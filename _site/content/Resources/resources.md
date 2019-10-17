@@ -10,33 +10,39 @@
 
 [Brennan Center, Columbia]()
 
-[Cybersecurity Directorate, US CyberCommand]
+[Cybersecurity Directorate, US CyberCommand]()
 
 
 ## People
+
 - Anne Neuberger, CyberCommand
-- Lawrence Norden, Brennan
--
+- Lawrence Norden, Brennan Center
+- Philip Starck, UC Berkeley
 
 ## Money
 - Marc Andreesen
 - Satya Nadella
 - John Doerr
--
 
-- Books
+
+## Books
   - Barbara Simons:
-- Articles
+
+## Articles
   - [CBS](https://www.cbsnews.com/news/the-nsa-prepares-to-defend-2020-elections-drawing-lessons-from-2018-midterms/)
-- Academic centers
+
+
+## Academic centers
   - [Alex Stamos](https://en.wikipedia.org/wiki/Alex_Stamos)
   - [MIT]()
   - [Berkeley]()
-- Technical Centers
+
+
+## Technical Centers
   - NSA
   - DISA
 
-- Conferences
+## Conferences
   - [Intelligence and National Security Alliance (INSA) Summit]()
   - [DEFCON]()
   - [Black Hat Briefings](https://en.wikipedia.org/wiki/Black_Hat_Briefings)
