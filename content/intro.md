@@ -6,7 +6,7 @@ Fundamental journalistic integrity may be the most important element in how Amer
 
 How can journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results, by observing the elements of these systems at work, continuously, throughout the process?
 
-Call it _continuous, open, visible data journalism_.
+Call it _continuous, open, visible, scalable data journalism_. Use our most critical infrastructure as the foundation of fact-based, local news.
 
 Today's partisan environment may destroy our trust in our election system. Can we build a common understanding of how to verify the integrity of our systems? Can we carry out post-election audits of the results of an election to establish to the satisfaction of all that the results were fairly decided?
 
