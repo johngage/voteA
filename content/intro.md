@@ -1,8 +1,8 @@
 # Journalism and Vote2020
 
-How can journalism help an American citizen understand how our election systems work, how they can be improved, and how we can trust the results?
+How can journalism help an American citizen understand how our election systems work, how they can be improved, and how we can watch every element of these systems at work to be able to trust the results?
 
-Trust will be tested in today's partisan environment. Can we build a 
+Today's partisan environment may destroy our trust in our election system. Can we build a common understanding of how to verify the integrity of our systems? Can we carry out post-election audits of the results of an election to establish to the satisfaction of all that the results were fairly decided?
 
 ## Will 9,000 US voting jurisdictions be able to safeguard their voting systems in 2020?
   - Is there money enough and time enough to upgrade or replace the most vulnerable elements of today's election and voting systems? in the next five months before the primaries? or in the next twelve months in the runup to November, 2020?
