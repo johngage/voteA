@@ -5,16 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-  <title>Markdown files</title>
-  <meta name="description" content="Creating book content The two kinds of files that contain course content are:Jupyter NotebooksMarkdown filesEach are contained in the content/ folder and ref...">
+  <title>Search the site</title>
+  <meta name="description" content="        ">
 
-  <link rel="canonical" href="https://johngage.github.io/votingA/features/markdown.html">
+  <link rel="canonical" href="https://johngage.github.io/votingA/search">
   <link rel="alternate" type="application/rss+xml" title="Voting and Cybersecurity" href="https://johngage.github.io/votingA/feed.xml">
 
-  <meta property="og:url"         content="https://johngage.github.io/votingA/features/markdown.html" />
+  <meta property="og:url"         content="https://johngage.github.io/votingA/search" />
 <meta property="og:type"        content="article" />
-<meta property="og:title"       content="Markdown files" />
-<meta property="og:description" content="Creating book content The two kinds of files that contain course content are:Jupyter NotebooksMarkdown filesEach are contained in the content/ folder and ref..." />
+<meta property="og:title"       content="Search the site" />
+<meta property="og:description" content="        " />
 <meta property="og:image"       content="https://johngage.github.io/votingA/images/logo/logo.png" />
 
 <meta name="twitter:card" content="summary">
@@ -24,11 +24,11 @@
   {
   "@context": "http://schema.org",
   "@type": "NewsArticle",
-  "mainEntityOfPage": "https://johngage.github.io/votingA/features/markdown.html",
-  "headline": "Markdown files",
+  "mainEntityOfPage": "https://johngage.github.io/votingA/search",
+  "headline": "Search the site",
   "datePublished": "2019-10-17T16:27:11-07:00",
   "dateModified": "2019-10-17T16:27:11-07:00",
-  "description": "Creating book content The two kinds of files that contain course content are:Jupyter NotebooksMarkdown filesEach are contained in the content/ folder and ref...",
+  "description": "        ",
   "author": {
     "@type": "Person",
     "name": "John Gage"
@@ -632,7 +632,7 @@ initFunction(initPrint)
               
 
               <li class="c-sidebar__section">
-                <a class="c-sidebar__entry c-sidebar__entry--active"
+                <a class="c-sidebar__entry "
                   href="/votingA/features/markdown.html"
                 >
                   
@@ -688,20 +688,10 @@ initFunction(initPrint)
 <div class="download-buttons-dropdown">
     <button id="dropdown-button-trigger" class="interact-button"><i class="fa fa-download"></i></button>
     <div class="download-buttons">
-        <a href="/votingA/content/features/markdown.md" download>
-        <button id="interact-button-download" class="interact-button">ORIG</button>
-        </a>
         
         <a id="interact-button-print"><button id="interact-button-download" class="interact-button">PDF</button></a>
     </div>
 </div>
-
-  <button id="interact-button-thebelab" class="interact-button">Thebelab</button>
-
-  
-  
-  
-
 
 </div>
 
@@ -717,59 +707,91 @@ initFunction(initPrint)
 
       <main class="c-textbook__page" tabindex="-1">
             <div class="c-textbook__content" id="textbook_content">
-              <main class="jupyter-page">
-<div class="jb_cell">
-
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Creating-book-content">Creating book content<a class="anchor-link" href="#Creating-book-content"> </a></h1><p>The two kinds of files that contain course content are:</p>
-<ul>
-<li>Jupyter Notebooks</li>
-<li>Markdown files</li>
-</ul>
-<p>Each are contained in the <code>content/</code> folder and referenced from <code>_data/toc.yml</code>.</p>
-<p>If the file is markdown, it will be copied over with front-matter YAML added so
-that Jekyll can parse it</p>
-<h2 id="Sidebars-with-Jekyll">Sidebars with Jekyll<a class="anchor-link" href="#Sidebars-with-Jekyll"> </a></h2><p>You may notice that there's a sidebar to the right (if your screen is wide enough).
-These are automatically generated from the headers that are present in your page.
-The sidebar will automatically capture all 2nd and 3rd level section headers.
-The best way to designate these headers is with <code>#</code> characters at the beginning
-of a line.</p>
-<h3 id="Here's-a-third-level-header">Here's a third-level header<a class="anchor-link" href="#Here's-a-third-level-header"> </a></h3><p>This section is here purely to demonstrate the third-level header of the
-rendered page!</p>
-<h2 id="Embedding-media">Embedding media<a class="anchor-link" href="#Embedding-media"> </a></h2><h3 id="Adding-images">Adding images<a class="anchor-link" href="#Adding-images"> </a></h3><p>You can reference external media like images from your markdown file. If you use
-relative paths, then they will continue to work when the markdown files are copied over,
-so long as they point to a file that's inside of the repository.</p>
-<p>Here's an image relative to the site root</p>
-<p><img src="../images/C-3PO_droid.png" alt=""></p>
-<h3 id="Adding-movies">Adding movies<a class="anchor-link" href="#Adding-movies"> </a></h3><p>You can even embed references to movies on the web! For example, here's a little gif for you!</p>
-<p><img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" alt=""></p>
-<p>This will be included in your website when it is built.</p>
-
-</div>
-</div>
-</div>
+              <div class="search-content__inner-wrap">
+    <input type="text" id="lunr_search" class="search-input" tabindex="-1" placeholder="'Enter your search term...''" />
+    <div id="results" class="results"></div>
 </div>
 
- 
-
-
-</main>
-
+<script>
+    // Add the lunr store since we will now search it
+    var store = [{
+        "title": "Interviews",
+        
+        "excerpt":
+            "     Interview templates   Establish baseline facts Assess current state of voting system: budget, political management, history, performance metrics   Registrar story Secretary of State story             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/Interviews/template1.html",
+        "teaser":null},{
+        "title": "Media",
+        
+        "excerpt":
+            "     Overview of major journalism programs for Election 2020   Campaign Machinery of voter contact Registration Data bases Behavioral modeling Social media targeting Advertising models   Money flow Information flow Building journalistic competence Numeracy Levels of involvement High school Journalism College journalism Journalism schools                 ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/Media/overview.html",
+        "teaser":null},{
+        "title": "Reporters",
+        
+        "excerpt":
+            "     Reporters   Joseph Marks Tonya Riley Jacob Ward  [Bill Clark, Wired] [Andrew Harrer, Bloomberg]  Steven Stover Olivia Gazis, CBS             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/Media/reporters.html",
+        "teaser":null},{
+        "title": "Stories",
+        
+        "excerpt":
+            "     Stories   Washington Post Joseph Marks               ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/Media/stories.html",
+        "teaser":null},{
+        "title": "Resources",
+        
+        "excerpt":
+            "Resources DARPA NIST Verified Voting OSET Brennan Center, Columbia Cybersecurity Directorate, US CyberCommand People Anne Neuberger, CyberCommand Lawrence Norden, Brennan Center Philip Starck, UC Berkeley Money Marc Andreesen Satya Nadella John Doerr Books Barbara Simons: Articles CBS Academic centers Alex Stamos MIT Berkeley Technical Centers NSA DISA Conferences Intelligence and National Security Alliance (INSA) Summit DEFCON Black Hat Briefings AvengerCon III 2018 A Company (the Avengers), 781st Military Intelligence (MI) Battalion (Cyber) Capt. Skyler Onken, commander of A Co., 781st MI Battalion Capt. Stephen Rogacki Chris Eagle, professor at the Naval Post Graduate School and a former Navy lieutenant commander....",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/Resources/resources.html",
+        "teaser":null},{
+        "title": "Features and customization",
+        
+        "excerpt":
+            "Features This is a short demonstration textbook to show the general layout / style of textbooks built with Jupyter and Jekyll. The markdown files for this page (and others in the textbook) is generated from the notebooks with the scripts/generate_textbook.py script, which is called when you run make book. The content for the book is contained in a folder in the book's repository called content/. It has a combination of markdown and Jupyter notebooks. This content is rendered into the textbook that you see here! To begin, click on one of the chapter sections in the sidebar to the left....",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/features/features.html",
+        "teaser":null},{
+        "title": "Markdown files",
+        
+        "excerpt":
+            "Creating book content The two kinds of files that contain course content are: Jupyter Notebooks Markdown files Each are contained in the content/ folder and referenced from _data/toc.yml. If the file is markdown, it will be copied over with front-matter YAML added so that Jekyll can parse it Sidebars with Jekyll You may notice that there's a sidebar to the right (if your screen is wide enough). These are automatically generated from the headers that are present in your page. The sidebar will automatically capture all 2nd and 3rd level section headers. The best way to designate these headers is...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/features/markdown.html",
+        "teaser":null},{
+        "title": "Jupyter notebooks",
+        
+        "excerpt":
+            "Content with notebooks You can also create content with Jupyter Notebooks. The content for the current page is contained in a Jupyter Notebook in the notebooks/ folder of the repository. This means that we can include code blocks and their outputs, and export them to Jekyll markdown. You can find the original notebook for this page at this address Markdown + notebooks As it is markdown, you can embed images, HTML, etc into your posts! You an also $add_{math}$ and $$ math^{blocks} $$or $$ \\begin{align*} \\mbox{mean} la_{tex} \\\\ \\\\ math blocks \\end{align*} $$But make sure you \\$Escape \\$your \\$dollar signs...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/features/notebooks.html",
+        "teaser":null},{
+        "title": "Electoral Journalism",
+        
+        "excerpt":
+            "Journalism and Vote2020 How can journalism help an American citizen understand how our election systems work, how they can be improved, and how we can trust the results? Trust will be tested in today's partisan environment. Can we build a Will 9,000 US voting jurisdictions be able to safeguard their voting systems in 2020? Is there money enough and time enough to upgrade or replace the most vulnerable elements of today's election and voting systems? in the next five months before the primaries? or in the next twelve months in the runup to November, 2020? What are those vulnerable elements,...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/votingA/intro.html",
+        "teaser":null},]
+</script>
             </div>
             <nav class="c-page__nav">
   
-    
-    <a id="js-page__nav__prev" class="c-page__nav__prev" href="/votingA/features/features.html">
-      〈 <span class="u-margin-right-tiny"></span> Features and customization
-    </a>
-  
 
-  
-    
-    <a id="js-page__nav__next" class="c-page__nav__next" href="/votingA/features/notebooks.html">
-      Jupyter notebooks <span class="u-margin-right-tiny"></span> 〉
-    </a>
   
 </nav>
 
