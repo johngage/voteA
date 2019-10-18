@@ -5,7 +5,9 @@
   - Ubiquituous: 9,000 election districts; 15,000 water districts in California;
   - Highly skewed: a few very big ones, a huge majority very small ones
   - Ostensibly apolitical, but fundamentally political; viz Flint
-  - Boring, hard to explain why a power system failed (except PG&E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the future.
+  - Boring, hard to explain why a power system failed (except PG&E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the future.**But**, these stories are rarely followed up.
+  - **_This is the central idea of continuous data journalism_**. **Automated, continuous coverage**, with crowd-sourced local expertise using the same evaluative templates.
+  - _Think of this as building a logistics or industrial maintenance system, but for facts._
 
 ### Use traditional beat reporter structure, but incorporate new ways to tell the story, new ways to recruit sources and data
 - Pick representative districts, representative people, cover over time. Recurrent updates. Find compelling people. Later, bring them together, once audience has built for their stories.
@@ -19,7 +21,9 @@
   - Use NBC local templates as foundations for a sequence of homework assignments in data science classes
 - Create local NBC annual prize event (Data Journalism Emmy) for student, non-traditional coverage of local elections
   - Use NBC on-air talent to create a three-hour EdX course on how to build election-related, or infrastructure-related podcast and videoblog
-- Partner with popular technology vehicles: Popular Science, Popular Mechanics, hundreds of websites and podcasts, to do the local investigatory work.  Create NBC Investigatory Data ethical standards, publish them.  Similar to Fact Checking guidelines, but for technical subjects of infrastructure. Use the hundreds of Ethics in Data courses blossoming on the thousands of campuses now teaching Data Science.
+- Partner with popular technology vehicles: Popular Science, Popular Mechanics, hundreds of websites and podcasts, to do the local investigatory work.
+-   Create NBC Investigatory Data ethical standards, publish them.  Similar to Fact Checking guidelines, but for technical subjects of infrastructure.
+-  Use the hundreds of Ethics in Data courses blossoming on the thousands of campuses now teaching Data Science.
 
 ### Build new NBC Data Journalism for the 21st Century initiative using national journalism conferences
 Organization  | Members | Convention Dates

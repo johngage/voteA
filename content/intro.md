@@ -1,8 +1,12 @@
+
+#### Current draft: 18Oct2019.1156pst
 # Journalism and Vote2020
 
-Fundamental journalistic integrity may be the most important element in how American voters view the validity of the highly contested 2020 elections.  In the next twelve months, continual examination of how we exercise democracy will be critical for trusting the result.
+Fundamental journalistic integrity may be the most important element in how American voters view the validity of the highly contested 2020 elections.  In the next twelve months, continual examination of how we exercise democracy will be critical for trusting the result of the vote.
 
-How can journalism help an American citizen understand how our election systems work, how they can be improved, and how we can watch every element of these systems at work to be able to trust the results?
+How can journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results, by observing the elements of these systems at work, continuously, throughout the process?
+
+Call it _continuous, open, visible data journalism_.
 
 Today's partisan environment may destroy our trust in our election system. Can we build a common understanding of how to verify the integrity of our systems? Can we carry out post-election audits of the results of an election to establish to the satisfaction of all that the results were fairly decided?
 
