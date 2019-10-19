@@ -12,7 +12,7 @@ This examination must be continuous, not episodic.
 
 Every jurisdiction should be covered, not just a State Election Board or a Secretary of State.
 
-Every election has a story that begins long before the day of the vote.  How that story begins, and how the people and the institutions charged with the public trust to carry out fair elections actually carry out their responsibilities needs continual examination, particularly when technical and human vulnerabilities are under attack.
+Every election has a story that begins long before the day of the vote.  We must build those stories, in every jurisdiction. We must examine how the people and the institutions charged with the public trust to carry out fair elections actually carry out their responsibilities, particularly when technical and human vulnerabilities are under attack.
 
 How can ethical journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results?
 
