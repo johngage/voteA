@@ -1,14 +1,17 @@
 # Overview of major journalism programs for Election 2020
 
-Create a template that allows a reporter to capture the basic outline of a registration and voting system. Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements are arranged in similar ways.
+Reporter template to capture the basic outline of a registration and voting system, with figures of merit.
 
-How can a reporter build that picture quickly, for any jurisdiction?
+Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements enable comparisons and rankings.
+
+How can a reporter build a picture quickly, for any jurisdiction?
 
 
 Core question | Basic Answer | Figure of Merit
 :---: | :---: | :---:
 Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible / Total population; Voted/Eligible
 Who did vote?  | Percent by age; by party; by sex; by renter/owner; by race; by occupation  |  Higher percentage is better
+Who did not vote?  |   |  
 How are boundaries decided?  |  How to measure fairness, balance; Who designed boundaries? How? Who accepted boundaries? Who can change them? |  Percent by party; by race; by sex; by turnout
   |   |
 How do voters register?|  Process to apply; process to determine if applicant meets criteria; how are applicants notified? What is process of appeal? |   Time; cost; availability or barriers to registration; percent rejected
