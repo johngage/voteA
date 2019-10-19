@@ -2,10 +2,11 @@
 
 ## How to generate continuous coverage of the state of America's election infrastructure?
 ### Same challenge for news organizations as in covering electric or water infrastructure:
-  - Ubiquituous: 9,000 election districts; 15,000 water districts in California;
-  - Highly skewed: a few very big ones, a huge majority very small ones
-  - Ostensibly apolitical, but fundamentally political; viz Flint
-  - Boring, hard to explain why a power system failed (except PG&E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the future.**But**, these stories are rarely followed up.
+  - **Ubiquituous**: 9,000 election districts; 15,000 water districts in California;
+  - **Highly skewed**: a few very big ones, a huge majority very small ones
+  - **Ostensibly apolitical**, but fundamentally political; viz Flint
+  - **Boring**, hard to explain why a power system failed (except PG&E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the future.**But**, these stories are rarely followed up; news organizations move on to the next big thing. That's what _news_ means.
+  - So, move beyond **short news cycle** to _continuous news cycle._
   - **_This is the central idea of continuous data journalism_**. **Automated, continuous coverage**, with crowd-sourced local expertise using the same evaluative templates.
   - _Think of this as building a logistics or industrial maintenance system, but for facts._
 
