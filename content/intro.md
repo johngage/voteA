@@ -2,15 +2,27 @@
 #### Current draft: 18Oct2019.1156pst
 # Journalism and Vote2020
 
-Fundamental journalistic integrity may be the most important element in how American voters view the validity of the highly contested 2020 elections.  In the next twelve months, continual examination of how we exercise democracy will be critical for trusting the result of the vote.
+Today's partisan environment may destroy our trust in our election system. Can we build a common understanding of how to verify the integrity of our elections?
 
-How can journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results, by observing the elements of these systems at work, continuously, throughout the process?
+The integrity of American journalism may be the most important element in how American voters view the validity of the highly contested 2020 elections.
+
+Over the next twelve months, careful examination of the exercise of democracy in every jurisdiction will deeply affect how America trusts the result of the vote.
+
+This examination must be continuous, not episodic.
+
+Every jurisdiction should be covered, not just a State Election Board or a Secretary of State.
+
+Every election has a story that begins long before the day of the vote.  How that story begins, and how the people and the institutions charged with the public trust to carry out fair elections actually carry out their responsibilities needs continual examination, particularly when technical and human vulnerabilities are under attack.
+
+How can journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results?
+
+Our best way to answer that question is by observing the elements of these systems at work, continuously, throughout the process.
 
 Call it _continuous, open, visible, scalable data journalism_. Use our most critical infrastructure as the foundation of fact-based, local news.
 
-Today's partisan environment may destroy our trust in our election system. Can we build a common understanding of how to verify the integrity of our systems? Can we carry out post-election audits of the results of an election to establish to the satisfaction of all that the results were fairly decided?
+Today's partisan environment may destroy our trust in our election results. Can we build a common understanding of how to verify the integrity of our democracy? Can post-election audits of the results of an election establish to the satisfaction of all that the results were fairly decided, and reflect the actual vote?
 
-And how do we build a consensus on the integrity of our elections, and on the good faith and honesty of the millions of Americans who will participate in carrying out the processes and procedures of the election?
+And how do we build a consensus on the integrity, the good faith and honesty of the millions of Americans who will participate in carrying out the processes and procedures of the election?  Our registrars, our election boards, our technical staff, our volunteers in fire stations and post offices and schools across the country?
 
 ## Will 9,000 US voting jurisdictions be able to safeguard their voting systems in 2020? Do they know how?
   - Is there money enough and time enough to upgrade or replace the most vulnerable elements of today's election and voting systems? in the next five months before the primaries? or in the next twelve months in the runup to November, 2020?
