@@ -16,7 +16,7 @@ Every election has a story that begins long before the day of the vote.  We must
 
 How can ethical journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results?
 
-Our best way to answer that question is by observing the elements of these systems at work, continuously, throughout the process.
+Our best way to answer that question is by observing the elements of these systems at work, continuously, throughout the process, assessing performance, and reporting the results.
 
 This site proposes several ways to build a national continuous news network to examine our critical national infrastructures. As we develop methods to examine our critical election systems, those same methods may be applied to America's other critical infrastructures, those controlling power, water, information, transportation and financial systems.
 
