@@ -1,4 +1,4 @@
-# Reporter's questions to build baseline data for a jurisdiction for for Election 2020
+# Reporter's questions to build baseline data for a jurisdiction for Election 2020
 
 Goal: build a **Reporter Template** to capture the basic outline of a registration and voting system in a jurisdiction, with figures of merit.
 

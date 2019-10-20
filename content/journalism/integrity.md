@@ -16,14 +16,14 @@ By building the tools of careful data examination, we demonstrate how to build b
 
 Over the next twelve months, careful examination of the exercise of democracy in every jurisdiction will deeply affect how America trusts the result of the vote. Our democracy depends upon this trust.
 
-This examination must be continuous, not episodic. Local, not regional or national. Distributed, not centralized.
+This examination must be **continuous, not episodic**. **Local, not regional** or national. **Distributed, not centralized**.
 
-This examination should extend to every jurisdiction at every level, not just a State Election Board or a Secretary of State.
+This examination should extend to **every jurisdiction** at every level, not just a State Election Board or a Secretary of State.
 
-This examination must enable fair comparisons between jurisdictions, and establish accountability for failures in integrity.
+This examination must **enable fair comparisons** between jurisdictions, and **establish accountability** for failures in integrity.
 
-This examination must be carried out at the local jurisdictional level. The integrity of that examination must be accepted by those in that jurisdiction. A key step to accomplish that is to involve as many people in that jurisdiction as possible in the fact-based process of observing its daily workings.
+This examination must be carried out at the **local jurisdictional level**. The integrity of that examination must be accepted by those in that jurisdiction. A key step to accomplish that is to involve as many **people in that jurisdiction** as possible in the fact-based process of observing its daily workings.
 
-Local data-based journalism requires a partnership between traditional news organizations and local data reporting and analysis groups. Today, we have the tools to build this partnership. Today, the explosion of data science courses in every community college, college, and university creates tens of thousands of potential partners--an **_ElectionCorps_**--of capable local observers.
+Local data-based journalism requires a partnership between traditional news organizations and local data reporting and analysis groups. Today, we have the tools to build this partnership. Today, the explosion of data science courses in every community college, college, and university creates **tens of thousands of potential partners**--an **_ElectionCorps_**--of capable local observers.
 
 Every election has a story that begins long before the day of the vote.  We must build those stories, in every jurisdiction. We must examine how the people and the institutions charged with the public trust to carry out fair elections actually carry out their responsibilities, particularly when technical and human vulnerabilities are under attack.
