@@ -8,7 +8,9 @@ Today's partisan environment could destroy America's trust in our election syste
 
 Can we verify the integrity of our elections? Can American journalism build a national common understanding of how to monitor the integrity of our democracy?
 
-This site explores the possibility of creating a new, decentralized network of data sources and data analysis to monitor our elections, joining national news organizations, local news organizations, and social media reporting entities with tens of thousands of data scientists, nationwide, in a common effort to acquire and analyze election system data.
+This site explores the possibility of creating a new, decentralized network of data sources and data analysis to monitor our elections, joining national news organizations, local news organizations, and social media reporting entities with tens of thousands of data scientists, nationwide, in a common effort to acquire and analyze election system data.ss
+
+This site explores how to shift from **episodic** news coverage to **continuous** coverage, utilizing new tools of data acquisition and data analysis.  From discrete to continuous.
 
 Many efforts to detect and prevent attacks on our voting systems are underway, at a national, state, and local level.
 The [US Election Assistance Commission (EAC)](https://www.eac.gov/payments-and-grants/hava-funds-state-chart-view/) has distributed almost $400 million dollars to hundreds of jurisdictions; the Department of Homeland Security monitors and mentors hundreds of jurisdiction on hardening their systems; the National Security Agency, and the US CyberCommand are running training exercises to defend our election systems from threats of interference.
