@@ -6,7 +6,7 @@ Threats against the integrity of our election systems challenge American democra
 
 Today's partisan environment could destroy America's trust in our election systems.
 
-Can we verify the integrity of our elections? Can American journalism build a common understanding of how to monitor the integrity of our democracy?
+Can we verify the integrity of our elections? Can American journalism build a national common understanding of how to monitor the integrity of our democracy?
 
 This site explores the possibility of creating a new, decentralized network of data sources and data analysis to monitor our elections, joining national news organizations, local news organizations, and social media reporting entities with tens of thousands of data scientists, nationwide, in a common effort to acquire and analyze election system data.
 
