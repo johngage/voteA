@@ -1,6 +1,6 @@
-# Overview of major journalism programs for Election 2020
+# Reporter's questions to build baseline data for a jurisdiction for for Election 2020
 
-Reporter template to capture the basic outline of a registration and voting system, with figures of merit.
+Goal: build a **Reporter Template** to capture the basic outline of a registration and voting system in a jurisdiction, with figures of merit.
 
 Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements enable comparisons and rankings.
 

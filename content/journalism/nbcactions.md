@@ -46,7 +46,15 @@
   -  Use the hundreds of Ethics in Data courses blossoming on the thousands of campuses now teaching Data Science.
 
 ### Build new NBC Data Journalism for the 21st Century initiative using national journalism conferences
-    Organization  | Members | Convention Dates
-    | :--- | :--- |:---:
-    [Journalism Education Association (JEA)](http://jea.org/wp/)  |   |
-    [National Scholastic Press Association (NSPA)](http://studentpress.org/nspa/) |   |  November 21-24, Marriott, DC
+
+
+Organization  | Members | Convention Dates
+ :--- | :--- |:---:
+[Journalism Education Association (JEA)](http://jea.org/wp/)  |   |
+[JEA/NSPA National High School Journalism](http://jea.org/wp/home/news-events/national-conventions/)   |   | 21-24 Nov 2019
+[National Scholastic Press Association (NSPA)](http://studentpress.org/nspa/) |   |  November 21-24, Marriott, DC
+[Journalism Funders Conference](https://mediaimpactfunders.org/events/the-2019-journalism-funders-gathering/)  |   |  29-30 October 2019 San Francisco: HenryJ.Kaiser Family Foundation185 Berry Street, Suite 2000San Francisco, CA 94107 
+[National College Media Convention](http://studentpress.org/acp/events/#ncmc)  |   | 31 Oct - 3 Nov 2019: Grand Hyatt, DC
+[Nordic Data Journalism Conference](https://10times.com/noda-trondheim?utm_source=pastVisitor&utm_medium=email&utm_campaign=2019-11-15_day30&utm_term=event_name_header)  |   |  15 Nov 2019
+[ACP/CMBAM National College Journalism Convention](http://studentpress.org/acp/events/)  |   |  Feb. 27-29, 2020 · Hyatt Regency · San Francisco
+  |   |
