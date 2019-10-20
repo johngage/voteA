@@ -8,9 +8,9 @@ Our best way to answer that question is by observing the elements of these syste
 
 This site proposes several ways to build a national continuous news network to examine our critical national infrastructures. As we develop methods to examine our critical election systems, those same methods may be applied to America's other critical infrastructures, those controlling power, water, information, transportation and financial systems.
 
-Call it _continuous, open, visible, scalable data journalism_.
+Call it **_continuous, open, visible, scalable data journalism_**.
 
-We propose to use our most critical democracy infrastructure as the foundation for fact-based, local news.
+We propose to use our most critical democracy infrastructure, our election system and the data it generates, as the foundation for fact-based, local news.
 
 Today's partisan environment, amplified by unethical journalism, may destroy our trust in our election results. Can we build a common understanding of how to verify the integrity of our democracy?
 

@@ -14,15 +14,20 @@
 
 ### Assess time investment in working with other organizations
 
-1. Create national movement to understand local voting conditions by developing reporting in every jurisdiction.
+### Create national movement to understand local voting conditions by developing reporting in every jurisdiction.
 
-   A. 9,000 voting jurisdictions; [37,000 special districts: water,power...](https://en.wikipedia.org/wiki/Special_district_(United_States)) ;  [20,000 school districts, public and private](https://en.wikipedia.org/wiki/School_district);[20,000 municipalities](http://www.citymayors.com/mayors/us-mayors.html)
-
-2. Build data journalism foundation course on EdX
-    1. Collaboration between NBC, AP, UC Berkeley Graduate School of Journalism, Columbia, Missouri,
-    2. National journalism associations
-    3. Retired journalists, statisticians
-    4. National engineering societies: IEEE, ACM, AWWS
+- 9,000 voting jurisdictions;
+- [37,000 special districts: water,power...](https://en.wikipedia.org/wiki/Special_district_(United_States)) ;
+-  [20,000 school districts, public and private](https://en.wikipedia.org/wiki/School_district);
+-  [20,000 municipalities](http://www.citymayors.com/mayors/us-mayors.html)
+-
+### Build data journalism foundation course on EdX
+  Collaboration between NBC, AP, and other news organizations, and:
+  1. UC Berkeley Graduate School of Journalism, Columbia Journalism School, Missouri School of Journalism,
+  2. National journalism associations
+  3. Retired journalists, statisticians
+  4. National engineering societies: IEEE, ACM, AWWS
+  5. UC Berkeley Institute of Data Science; MIT Data Science; Stanford Data Science; 
 
 ### Use traditional beat reporter structure at national and affiliate level, but add more local stories, and recruit new local sources and data to update them regularly.
 - Pick representative districts, representative people, cover over time. Recurrent updates. Find compelling people. Later, bring them together, once audience has built for their stories.
