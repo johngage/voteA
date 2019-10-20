@@ -12,6 +12,16 @@
 
 [Cybersecurity Directorate, US CyberCommand]()
 
+Organization | Full Name | Membership | Contact
+:--- | :---: | :--- | :---
+NASED |National Association of State Election Directors   |   Professional association of state chief election officials in the states |
+Election Center   |   | Training and certification of election administrators and other election professionals  |
+EAC   | Election Assistance Commission   |   |
+Standards Board   |   | 110 members  |
+Board of Advisors   |   |  35 members |
+TGDC   | Technical Guidelines Development Committee   |15 members   |
+DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masterson@hq.dhs.gov
+  |   |   |  
 
 
 ## Books
