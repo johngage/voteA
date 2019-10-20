@@ -12,8 +12,7 @@ As we develop methods to examine our critical **election systems**, those same m
 
 Call it **_continuous, open, visible, scalable data journalism_**.
 
-**_We propose to use our most critical democracy infrastructure, our election system and the data it generates, as the foundation for fact-based, local news in every community in the country.
-_**
+**_We propose to use our most critical democracy infrastructure, our election system and the data it generates, as the foundation for fact-based, local news in every community in the country._**
 
 Where do we find people in every jurisdiction to build the data and perform the local jurisdiction analysis?
 

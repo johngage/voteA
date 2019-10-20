@@ -8,3 +8,7 @@
   - What role should Federal agencies play in US elections? in local elections? What roles should US CyberCommand, NIST, DARPA, DHS, the EAC, the Department of Defense, and the Department of Justice play in strengthening our election systems?
   - What role can State Secretaries of State, or local Registrars or Election Commissions play in strengthening our election systems?
   - Who is doing a good job?  Who could do better?
+
+## How can a news organization with a few hundred employees create data gathering partners in 9,000 jurisdictions?
+
+Impossible a few years ago.  Easy, today, with the explosion of Data Science courses and Jupyter Notebooks.
