@@ -1,4 +1,4 @@
-# Design story framework for continuous coverage, continuous updates
+# Design a framework for continuous coverage stories, allowing continuous updates
 
 ## How to generate continuous coverage of the state of America's election infrastructure?
 ### Same challenge for news organizations as in covering electric or water infrastructure:

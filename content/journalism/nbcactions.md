@@ -17,20 +17,20 @@
 ### Create national movement to understand local voting conditions by developing reporting in every jurisdiction.
 
 - 9,000 voting jurisdictions;
-- [37,000 special districts: water,power...](https://en.wikipedia.org/wiki/Special_district_(United_States)) ;
+- [37,000 special districts: water, power, irrigation, storm](https://en.wikipedia.org/wiki/Special_district_(United_States) ;
 -  [20,000 school districts, public and private](https://en.wikipedia.org/wiki/School_district);
 -  [20,000 municipalities](http://www.citymayors.com/mayors/us-mayors.html)
--
+
 ### Build data journalism foundation course on EdX
   Collaboration between NBC, AP, and other news organizations, and:
   1. UC Berkeley Graduate School of Journalism, Columbia Journalism School, Missouri School of Journalism,
   2. National journalism associations
   3. Retired journalists, statisticians
   4. National engineering societies: IEEE, ACM, AWWS
-  5. UC Berkeley Institute of Data Science; MIT Data Science; Stanford Data Science; 
+  5. UC Berkeley Institute of Data Science; MIT Data Science; Stanford Data Science;
 
 ### Use traditional beat reporter structure at national and affiliate level, but add more local stories, and recruit new local sources and data to update them regularly.
-- Pick representative districts, representative people, cover over time. Recurrent updates. Find compelling people. Later, bring them together, once audience has built for their stories.
+- Pick representative districts, representative people, cover over time. Recurrent updates, maybe bi-weekly. Find compelling people. Later, bring them together physically, to exchange stories, once audience has built for their stories.
 - Provide overall template evaluating how a district is doing (technology, costs,performance, training, bang for the buck, competence)
 - Build reporting infrastructure nation-wide in every district using NBC standard evaluation template:
   - High school newspapers and video reporters (now streaming on Youtube) equipped with NBC templates
@@ -47,6 +47,6 @@
 
 ### Build new NBC Data Journalism for the 21st Century initiative using national journalism conferences
     Organization  | Members | Convention Dates
-    :--- | :--- |
+    | :--- | :--- |:---:
     [Journalism Education Association (JEA)](http://jea.org/wp/)  |   |
     [National Scholastic Press Association (NSPA)](http://studentpress.org/nspa/) |   |  November 21-24, Marriott, DC
