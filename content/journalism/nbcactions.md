@@ -17,7 +17,13 @@
 
 ### Discuss alliance with NYT Future Journalism group
 
-### Create national movement to understand local voting conditions by developing local reporting and analysis in every jurisdiction, partnering with affilites and O&O's, and with local educational institutions teaching data science.
+### Set up sessions or plenary presentations of NBC's new **NBC Continuous Data Journalism**
+
+Present at all major journalism conferences cited below.
+
+### Create national movement to cover local voting conditions
+
+Develop local reporting and analysis in every jurisdiction, partnering with affilites and O&O's, and with local educational institutions teaching data science.
 
 - 9,000 voting jurisdictions;
 - [37,000 special districts: water, power, irrigation, storm](https://en.wikipedia.org/wiki/Special_district_(United_States) ;
