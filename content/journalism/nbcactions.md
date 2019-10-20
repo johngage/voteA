@@ -14,12 +14,14 @@
 - Web site engineering: design of data visualizations, maps: move to Jupyter Notebooks, using new J3-like capabilities.
 
 ### Assess time investment in working with other organizations
+- Discuss alliance with NYT Future Journalism group
 
-### Discuss alliance with NYT Future Journalism group
+### Build web site incorporating example Jupyter Notebooks;
 
-### Set up sessions or plenary presentations of NBC's new **NBC Continuous Data Journalism**
+### This week, set up tutorial sessions or plenary presentations of NBC's new <span style="color:red;font-size:120%;"> Continuous Data Journalism</span>
 
-Present at all major journalism conferences cited below.
+- Present at all journalism conferences cited below. Provide tools to all conference attendees.
+- Pitch Knight Foundation, Pierre Omidyar for funds
 
 ### Create national movement to cover local voting conditions
 
