@@ -15,7 +15,7 @@ Call it **_continuous, open, visible, scalable data journalism_**.
 **_We propose to use our most critical democracy infrastructure, our election system and the data it generates, as the foundation for fact-based, local news in every community in the country.
 _**
 
-Where do we find people in every jurisdiction to build the data and analysis?
+Where do we find people in every jurisdiction to build the data and perform the local jurisdiction analysis?
 
 Today, **thousands of data science faculty members** are hunting for relevant data sets and relevant analytic frameworks to assign to their students as homework.  Build a Jupyter Notebook for analyzing data from any voting jurisdiction, and any academic institution in that jurisdiction will use it.
 
