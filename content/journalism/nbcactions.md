@@ -23,3 +23,25 @@
     2. National journalism associations
     3. Retired journalists, statisticians
     4. National engineering societies: IEEE, ACM, AWWS
+
+### Use traditional beat reporter structure at national and affiliate level, but add more local stories, and recruit new local sources and data to update them regularly.
+- Pick representative districts, representative people, cover over time. Recurrent updates. Find compelling people. Later, bring them together, once audience has built for their stories.
+- Provide overall template evaluating how a district is doing (technology, costs,performance, training, bang for the buck, competence)
+- Build reporting infrastructure nation-wide in every district using NBC standard evaluation template:
+  - High school newspapers and video reporters (now streaming on Youtube) equipped with NBC templates
+  - Higher ed (community colleges, colleges, universities) newspapers building data (Jupyter Notebooks) for every voting district
+- Affiliate, O&O teams holding regional summits to build NBC grassroots coverage
+  - Use local coverage of local election machinery and institution to build local history of elections:who did what when.
+  - Partner with high school and community college faculty to teach course on data journalism, using election data as core assignment material
+      - Use NBC local templates as foundations for a sequence of homework assignments in data science classes
+  - Create local NBC annual prize event (Data Journalism Emmy) for student, non-traditional coverage of local elections
+      - Use NBC on-air talent to create a three-hour EdX course on how to build election-related, or infrastructure-related podcast and videoblog
+  - Partner with popular technology vehicles: Popular Science, Popular Mechanics, hundreds of websites and podcasts, to do the local investigatory work.
+  -   Create NBC Investigatory Data ethical standards, publish them.  Similar to Fact Checking guidelines, but for technical subjects of infrastructure.
+  -  Use the hundreds of Ethics in Data courses blossoming on the thousands of campuses now teaching Data Science.
+
+### Build new NBC Data Journalism for the 21st Century initiative using national journalism conferences
+    Organization  | Members | Convention Dates
+    :--- | :--- |
+    [Journalism Education Association (JEA)](http://jea.org/wp/)  |   |
+    [National Scholastic Press Association (NSPA)](http://studentpress.org/nspa/) |   |  November 21-24, Marriott, DC
