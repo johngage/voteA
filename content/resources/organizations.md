@@ -1,16 +1,14 @@
 # Resources
 
-[DARPA](https://www.darpa.mil/about-us/about-darpa)
+Organization | Full Name | Membership | Contact
+:--- | :---: | :--- | :---
+[Verified Voting](https://www.verifiedvoting.org/) | | |
+[OSET]() | | |
+[NYU Brennan Center For Justice ]() | | |
+|[Democracy Works](https://www.democracy.works/)   |   |   |
+|  [Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
 
-[NIST](https://www.nist.gov/)
 
-[Verified Voting](https://www.verifiedvoting.org/)
-
-[OSET]()
-
-[Brennan Center, Columbia]()
-
-[Cybersecurity Directorate, US CyberCommand]()
 
 Organization | Full Name | Membership | Contact
 :--- | :---: | :--- | :---
@@ -21,7 +19,9 @@ Standards Board   |   | 110 members  |
 Board of Advisors   |   |  35 members |
 TGDC   | Technical Guidelines Development Committee   |15 members   |
 DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masterson@hq.dhs.gov
-  |   |   |  
+[DARPA](https://www.darpa.mil/about-us/about-darpa)  |   |   |
+[NIST](https://www.nist.gov/)|   |   |
+[Cybersecurity Directorate, US CyberCommand]()  |   |   |
 
 
 ## Books
