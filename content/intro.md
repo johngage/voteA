@@ -4,13 +4,13 @@
 
 Threats against the integrity of our elections challenge American democracy.
 
-Today's partisan environment could destroy America's trust in our election systems.
+Today's partisan environment could destroy America's trust in our election systems in 2020.
 
-In a media environment of outrage and false claims, how can we believe the results of an election were decided fairly?
+Can we verify the integrity of our elections in a way that most Americans would trust? Specifically, can American journalism build a national common understanding of how to monitor the integrity of our democracy?
 
-Can we verify the integrity of our elections in a way that most Americans would trust? Specifically, can American journalism build a national common understanding of how to monitor the integrity of our democracy in an era of cynicism and attack?
+On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions.
 
-On election day, news organizations now rely on voting counts from 9,000 jurisdictions. This is a proposal to build a parallel data system, utilizing the new data science curriculum, to bring thousands of data scientists into partnership with news organizations to build a new path to guaranteeing integrity.
+This is a proposal to build a parallel data system, utilizing thousands of students and faculty in the national data science curriculum, into partnership with news organizations to build a new way to monitor election integrity.
 
 What do we have to work with? [520,000 elected officials ](https://images.dailykos.com/images/134822/large/Elected_officials.png?1426881549) in the US know how they were elected.
 

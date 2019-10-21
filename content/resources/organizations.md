@@ -32,9 +32,12 @@ DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masters
 
 
 ## Academic centers
-  - [Alex Stamos](https://en.wikipedia.org/wiki/Alex_Stamos)
-  - [MIT]()
-  - [Berkeley]()
+Organization | Full Name | Membership | Contact
+:--- | :---: | :--- | :---
+MIT Election Lab  |   |   |  https://electionlab.mit.edu/
+  |   |   |
+[Alex Stamos](https://en.wikipedia.org/wiki/Alex_Stamos)|||
+[Berkeley Institute of Data Science](https://bids.berkeley.edu/)|||
 
 
 ## Technical Centers
