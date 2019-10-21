@@ -7,17 +7,24 @@ Whether it's a high school student body election, a school board election, a cit
 How can a reporter build a picture quickly, for any jurisdiction?
 
 
-Core question | Basic Answer| Figure of Merit
-:---: | :---: | :---:
-Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered
-Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better
-Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation
-How are boundaries decided?  |  How we measure fairness, balance. Who designed boundaries. How. Who accepted boundaries. Who can change them. |  Percent by party; by race; by sex; by turnout
-  |   |
-How do voters register?|  Process to apply; process to determine if applicant meets criteria; how are applicants notified? What is process of appeal? |   Time; cost; availability or barriers to registration; percent rejected
-How are ineligible registrants purged? | Number of dead per district per year, Number of changed address or name; decided by what process? How to appeal? |  Percent per year; error rate;
-How are purged registrants notified?  | How soon after decision? How informed of appeal process? |
-How are registration records made public?  | Open access  |  Cost; time;
+Core question | Basic Answer| Figure of Merit | Example
+:---: | :---: | :---: | :---:
+Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered | **Citizen Voting Age Population (CVAP)**/Total Population; **Voting Eligible Population (exclude felons)(VEP)** : VEP 2016: 230.6M; VAP 2016: 250.1M
+Who registered to vote?  |   |   |  **2018: 211 million**
+Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / CVAP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : 120 million voters / CVAP = 52%** ; **Percent of registered: 120/211 = 57%**
+Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation|
+How many vote in person?   |   |   |
+How many vote by mail or absentee?   |   |   |
+How many vote early?   |   |   |
+How many polling places?   |   |   | **2018:  200,000 polling places**
+How many poll workers?  |   |   |  **2018: 600,000 poll workers**
+How many pieces of voting equipment deployed?  |   |   |  **2018: 300,000**
+How are boundaries decided?  |  How we measure fairness, balance. Who designed boundaries. How. Who accepted boundaries. Who can change them. |  Percent by party; by race; by sex; by turnout|
+  |   | |
+How do voters register?|  Process to apply; process to determine if applicant meets criteria; how are applicants notified? What is process of appeal? |   Time; cost; availability or barriers to registration; percent rejected |
+How are ineligible registrants purged? | Number of dead per district per year, Number of changed address or name; decided by what process? How to appeal? |  Percent per year; error rate; |
+How are purged registrants notified?  | How soon after decision? How informed of appeal process? | |
+How are registration records made public?  | Open access  |  Cost; time; |
 
 
 Core question | Basic Answer | Figure of Merit

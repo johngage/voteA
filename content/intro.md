@@ -19,7 +19,7 @@ This site explores the possibility of creating a new, decentralized network of d
 This site explores how to shift from **episodic** news coverage to **continuous** coverage, utilizing new tools of data acquisition and data analysis.  From discrete to continuous.
 
 Many efforts to detect and prevent attacks on our voting systems are underway, at a national, state, and local level.
-The [US Election Assistance Commission (EAC)](https://www.eac.gov/payments-and-grants/hava-funds-state-chart-view/) has distributed almost $400 million dollars to hundreds of jurisdictions; the Department of Homeland Security monitors and mentors hundreds of jurisdiction on hardening their systems; the National Security Agency, and the US CyberCommand are running training exercises to defend our election systems from threats of interference.
+The [US Election Assistance Commission (EAC)](https://www.eac.gov/payments-and-grants/hava-funds-state-chart-view/) has distributed almost $4 billion dollars to hundreds of jurisdictions; the Department of Homeland Security monitors and mentors hundreds of jurisdiction on hardening their systems; the National Security Agency, and the US CyberCommand are running training exercises to defend our election systems from threats of interference.
 
 But American news organizations have a unique, independent capability and a special journalistic responsibility to publically report on the integrity of elections, whether government-run or privately-run.  All news organizations are designing their systems now to report on the 2020 election.
 

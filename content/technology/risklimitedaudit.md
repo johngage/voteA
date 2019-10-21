@@ -2,7 +2,13 @@
 [Overall Description of RLA's](https://www.verifiedvoting.org/resources/post-election-audits/risk-limiting-audits/)
 [Election Law Blog: Rick Hasen, UC Irvine Law](https://electionlawblog.org/)
 
+[Risk Limiting Audit Summit agenda: 31 Jan 2019](https://medium.com/@susangreenhalgh/its-time-to-audit-our-elections-54be65131d7d)
 
+[RLA Summit twitter feed](https://twitter.com/hashtag/rlasummit?src=hashtag_click)
+
+This is the best overview of RLA implementations: Colorado, Rhode Island, Michigan, Virginia, and many more.  Includes tutorial examples, training for registrars, explanation of implementation details.
+
+[RLA Summit 8-hour video: 31 Jan 2019](https://youtu.be/gMbz0_dizoA)
 
 Here is the Jupyter Notebook built by Kellie Ottoboni and Phil Stark for RLA trials in Michigan.
 [Kellie Ottobini article](https://blog.jupyter.org/jupyter-notebooks-for-post-election-audits-4bdd13d3e800)
