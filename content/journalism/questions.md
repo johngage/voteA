@@ -12,11 +12,13 @@ Core question | Basic Answer| Figure of Merit | Example
 Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered ; **[VEP is best](http://www.electproject.org/2018g)**: excludes non-citizen(8.3%, or 21M), felons(3.1M), in-prison(1.4M), parole(.5M), probation(2.1M)| **(VAP) Voting Age Population** -> **(CVAP) Citizen Voting Age Population** -> **(VEP)Voting Eligible Population (exclude in-prison ,felons, parole, probation,non-citizens;add overseas)** : VAP.2016: 250.1M ->VEP.2016: 230.6M; VAP.2018 255.1M -> VEP.2018 235.7M
 Who registered to vote?  |   |   |  **[REG.2018: 211 million](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf)**
 How many registered voters were purged from the list between elections?  |   |   |  **[Purge.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) : 17 M**
-Do you have Election Day Registration (EDR)? How many used it?  |   | | [EDR.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) **800,0000**
-Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : [118.6 million voters / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 118.6/211 = 56%**
+Do you have Election Day Registration (EDR) or Same Day Reg (SDR)? How many used it?  |   | | [EDR.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) **800,0000** ; 50% of states
+Do you have online registration?  |   |   |  75% of states
+Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **Presidential.2016: 138.6 M** ;  **Congressional.2018 : [118.6 M / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 118.6/211 = 56%**
 Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation|
 How many vote in person?   |   |   |
 How many vote by mail or absentee?   |   |   |
+How many Uniformed and Overseas Citizen Absentee (UOCAVA)  voted? |   |   |UOCAVA.2018: 350,000
 How many vote early?   |   |   |
 How many polling places?   |   |   | **2018:  200,000 polling places**
 How many poll workers?  |   |   |  **2018: 600,000 poll workers**
@@ -36,12 +38,17 @@ What are all the collected data fields? What is the data schema for registrants?
 Who decided what data to collect? How can that decision be changed?  |   |
 Who can change a voter registration record? What audit trail of changes is maintained? How may inaccurate changes be challenged? by the voter? by others?  |   |
 
-- Machinery of voter contact
-  - Population data
-  - Registration data bases
-  - Behavioral modeling
-  - Social media targeting
-  - Advertising models
+
+Core question | Basic Answer| Figure of Merit | Example
+:---: | :---: | :---: | :---:
+Do you have post-election audit?  |   |   |**[PostAudit.2018: 80% of states](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf)**
+How does it work?  |   |   |
+Do you use Risk Limiting Audits?  |   |   |
+Do you know what they are?  |   |   |
+
+- Behavioral modeling
+- Social media targeting
+- Advertising models
 - Money flow
 - Information flow
 - Building journalistic competence
