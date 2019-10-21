@@ -8,11 +8,15 @@ Today's partisan environment could destroy America's trust in our election syste
 
 Can we verify the integrity of our elections in a way that most Americans would trust? Specifically, can American journalism build a national common understanding of how to monitor the integrity of our democracy?
 
-On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions.
+On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 9,000 voting jurisdictions that count votes.
 
-This is a proposal to build a parallel data system, utilizing thousands of students and faculty in the national data science curriculum, into partnership with news organizations to build a new way to monitor election integrity.
+This is a proposal to build a parallel data system, joining thousands of students and faculty across America in the national data science curriculum into partnership with news organizations, to build a new way to monitor election integrity, understand the data, and share analysis of the elections in those jurisdictions in an open and transparent way.
 
-What do we have to work with? [520,000 elected officials ](https://images.dailykos.com/images/134822/large/Elected_officials.png?1426881549) in the US know how they were elected.
+What do we have to work with?
+
+**[520,000 elected officials ](https://images.dailykos.com/images/134822/large/Elected_officials.png?1426881549)** in the US know how they were elected, who ran the elections, and how well the election was conducted. Millions of defeated candidates also have observations.
+
+**600,000 poll workers, and tens of thousands of civil servants** working in America's 9,000 jurisdictions have observations.
 
 This site explores the possibility of creating a new, decentralized network of data sources and data analysis to monitor our elections, joining national news organizations, local news organizations, and social media reporting entities with tens of thousands of data scientists, nationwide, in a common effort to acquire and analyze election system data.ss
 
