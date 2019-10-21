@@ -9,9 +9,9 @@ How can a reporter build a picture quickly, for any jurisdiction?
 
 Core question | Basic Answer| Figure of Merit | Example
 :---: | :---: | :---: | :---:
-Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered | **Citizen Voting Age Population (CVAP)**/Total Population; **Voting Eligible Population (exclude felons)(VEP)** : VEP 2016: 230.6M; VAP 2016: 250.1M
+Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered | **(VAP) Voting Age Population** -> **(CVAP) Citizen Voting Age Population** -> **(VEP)Voting Eligible Population (exclude felons,non-citizens)** : VAP.2016: 250.1M ->VEP.2016: 230.6M; VAP.2018 255.1 -> VEP.2018 235.7
 Who registered to vote?  |   |   |  **2018: 211 million**
-Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / CVAP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : 120 million voters / CVAP = 52%** ; **Percent of registered: 120/211 = 57%**
+Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : [118.6 million voters / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 120/211 = 57%**
 Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation|
 How many vote in person?   |   |   |
 How many vote by mail or absentee?   |   |   |
