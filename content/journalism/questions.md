@@ -9,9 +9,11 @@ How can a reporter build a picture quickly, for any jurisdiction?
 
 Core question | Basic Answer| Figure of Merit | Example
 :---: | :---: | :---: | :---:
-Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered | **(VAP) Voting Age Population** -> **(CVAP) Citizen Voting Age Population** -> **(VEP)Voting Eligible Population (exclude felons,non-citizens)** : VAP.2016: 250.1M ->VEP.2016: 230.6M; VAP.2018 255.1 -> VEP.2018 235.7
-Who registered to vote?  |   |   |  **2018: 211 million**
-Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : [118.6 million voters / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 120/211 = 57%**
+Who can vote? | Geography; age; citizenship; status (felon,service member) | Eligible/Total population; Registered/Eligible; Voted/Registered ; **[VEP is best](http://www.electproject.org/2018g)**: excludes non-citizen(8.3%, or 21M), felons(3.1M), in-prison(1.4M), parole(.5M), probation(2.1M)| **(VAP) Voting Age Population** -> **(CVAP) Citizen Voting Age Population** -> **(VEP)Voting Eligible Population (exclude in-prison ,felons, parole, probation,non-citizens;add overseas)** : VAP.2016: 250.1M ->VEP.2016: 230.6M; VAP.2018 255.1M -> VEP.2018 235.7M
+Who registered to vote?  |   |   |  **[REG.2018: 211 million](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf)**
+How many registered voters were purged from the list between elections?  |   |   |  **[Purge.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) : 17 M**
+Do you have Election Day Registration (EDR)? How many used it?  |   | | [EDR.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) **800,0000**
+Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **2016 Presidential: 138.6 million** ;  **2018 Congressional election : [118.6 million voters / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 118.6/211 = 56%**
 Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation|
 How many vote in person?   |   |   |
 How many vote by mail or absentee?   |   |   |
