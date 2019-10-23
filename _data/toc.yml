@@ -52,6 +52,7 @@
   - title: Reporters
     url: /journalism/reporters
     not_numbered: true
+
 - title: Critical Infrastructure Journalism
   url: /criticalinf/overview
   not_numbered: true
@@ -84,25 +85,40 @@
   - title: Bibliography
     url: /resources/bibliography
     not_numbered: true
-- header: Voting Integrity Technology-Current and Future
 
-- title: Risk Limiting Audits
-  -url: /technology/risklimitedaudit
+- header: Technology For Voting Integrity
+
+- title: Voting Technology
+  url: /technology/techoverview
   not_numbered: true
-- title: Paper ballots
-  url: /technology/paper
-  not_numbered: true
-- title: Ballot casting machines
-  url: /technology/ballotcast
-  not_numbered: true
-- title: Ballot counting machines
-  url: /technology/ballotcount
-  not_numbered: true
-- title: Vote by mail
-  url: /technology/mailvote
-  not_numbered: true
+  expand_sections: true
+  sections:
+  - title: Overview
+    url: /technology/overview
+    not_numbered: true
+  - title: Paper ballots
+    url: /technology/paper
+    not_numbered: true
+  - title: Ballot casting machines
+    url: /technology/ballotcast
+    not_numbered: true
+  - title: Ballot counting machines
+    url: /technology/ballotcount
+    not_numbered: true
+  - title: Vote by mail
+    url: /technology/mailvote
+    not_numbered: true
+  - title: Risk Limiting Audits
+    url: /technology/risklimitedaudit
+    not_numbered: true
+
 - header: Data Science for Election Analysis
+
+- title: Building JupyterNotebooks Templates
   url: /datascience/jnsources
+  not_numbered: true
+
+
 
 - divider: true
 
