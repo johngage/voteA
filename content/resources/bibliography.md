@@ -12,3 +12,8 @@ The Future of Election Administration:Cases and Conversations
 Mitchell Brown
 Kathleen Hale
 Bridgett A. King
+
+
+Administering Elections
+How American Elections Work
+Authors: Hale, Kathleen, Montjoy, Robert, Brown, Mitchell

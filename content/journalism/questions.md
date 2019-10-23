@@ -16,7 +16,7 @@ How many registrations were denied?  |   |   |
 How many registered voters were purged from the list between elections?  |   |   |  **[Purge.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) : 17 M**
 Do you have Election Day Registration (EDR) or Same Day Reg (SDR)? How many used it?  |   | | [EDR.2018](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) **800,0000** ; 50% of states
 Do you have online registration?  |   |   |  75% of states
-Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **Presidential.2016: 138.6 M** ;  **Congressional.2018 : [118.6 M / VEP.2018 = 50.3%](http://www.electproject.org/2018g)** ; **Percent of registered: 118.6/211 = 56%**
+Who did vote?  |Geography; age; citizenship; status (felon,service member)  | Voted/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation  Higher percentage is better |Total Vote / VEP;  **Presidential.2016: 138.6 M** ;  **Congressional.2018 : [120.3 M / CVAP.2018 = 52.0%](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf)** ; **Percent of registered: 120.3/211 = 57%**
 Who did not vote?  |   |DidNotVote/Eligible; Percent by age; by party; by sex; by renter/owner; by race; by occupation|
 How many vote in person?   |   |   |
 How many vote by mail or absentee?   |   |   |
