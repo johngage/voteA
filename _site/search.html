@@ -1,0 +1,1345 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <title>Search the site</title>
+  <meta name="description" content="        ">
+
+  <link rel="canonical" href="https://johngage.github.io/voteA/search">
+  <link rel="alternate" type="application/rss+xml" title="Continuous Coverage of Critical Infrastructure" href="https://johngage.github.io/voteA/feed.xml">
+
+  <meta property="og:url"         content="https://johngage.github.io/voteA/search" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="Search the site" />
+<meta property="og:description" content="        " />
+<meta property="og:image"       content="https://johngage.github.io/voteA/images/logo/logo.png" />
+
+<meta name="twitter:card" content="summary">
+
+
+  <script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://johngage.github.io/voteA/search",
+  "headline": "Search the site",
+  "datePublished": "2019-10-23T10:58:48-07:00",
+  "dateModified": "2019-10-23T10:58:48-07:00",
+  "description": "        ",
+  "author": {
+    "@type": "Person",
+    "name": "John Gage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data 100 at UC Berkeley",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://johngage.github.io/voteA",
+      "width": 60,
+      "height": 60
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://johngage.github.io/voteA",
+    "height": 60,
+    "width": 60
+  }
+}
+
+  </script>
+  <link rel="stylesheet" href="/voteA/assets/css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/regular.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/solid.css">
+
+  <!-- <link rel="manifest" href="/manifest.json"> -->
+  <!-- <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#efae0a"> -->
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#233947">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="/voteA/images/logo/favicon.ico">
+
+  <!-- MathJax Config -->
+  <!-- Allow inline math using $ and automatically break long math lines -->
+<!-- (mostly) copied from nbconvert configuration -->
+<!-- https://github.com/jupyter/nbconvert/blob/master/nbconvert/templates/html/mathjax.tpl -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+        processEnvironments: true
+    },
+    // Center justify equations in code and markdown cells. Elsewhere
+    // we use CSS to left justify single line equations in code cells.
+    displayAlign: 'center',
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}},
+        linebreaks: { automatic: true },
+    }
+});
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML' async></script>
+
+
+  <!-- DOM updating function -->
+  <script src="/voteA/assets/js/dom-update.js"></script>
+
+  <!-- Selectors for elements on the page -->
+  <script src="/voteA/assets/js/documentSelectors.js"></script>
+
+  <!-- Define some javascript variables that will be useful in other javascript -->
+  <script>
+    const site_basename = '/voteA';
+  </script>
+
+  <!-- Add AnchorJS to let headers be linked -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js" async></script>
+  <script src="/voteA/assets/js/anchors.js" async></script>
+
+  <!-- Include Turbolinks to make page loads fast -->
+  <!-- https://github.com/turbolinks/turbolinks -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js" async></script>
+  <meta name="turbolinks-cache-control" content="no-cache">
+
+  <!-- Load nbinteract for widgets -->
+  
+
+  <!-- Load Thebelab for interactive widgets -->
+  <!-- Include Thebelab for interactive code if it's enabled -->
+
+
+<!-- Display Thebelab button in each code cell -->
+<script>
+/**
+ * Set up thebelab button for code blocks
+ */
+
+const thebelabCellButton = id =>
+  `<a id="thebelab-cell-button-${id}" class="btn thebebtn o-tooltip--left" data-tooltip="Interactive Mode">
+    <img src="/voteA/assets/images/edit-button.svg" alt="Start interactive mode">
+  </a>`
+
+
+const addThebelabButtonToCodeCells =  () => {
+
+  const codeCells = document.querySelectorAll('div.input_area > div.highlight:not(.output) pre')
+  codeCells.forEach((codeCell, index) => {
+    const id = codeCellId(index)
+    codeCell.setAttribute('id', id)
+    if (document.getElementById("thebelab-cell-button-" + id) == null) {
+      codeCell.insertAdjacentHTML('afterend', thebelabCellButton(id));
+    }
+  })
+}
+
+initFunction(addThebelabButtonToCodeCells);
+</script>
+
+
+
+<script type="text/x-thebe-config">
+    {
+      requestKernel: true,
+      binderOptions: {
+        repo: 'YOUR-ORG/YOUR-REPO',
+        ref: 'gh-pages',
+      },
+      codeMirrorConfig: {
+        theme: "abcdef"
+      },
+      kernelOptions: {
+        name: 'python3',
+      }
+    }
+</script>
+<script src="https://unpkg.com/thebelab@0.4.0/lib/index.js" async></script>
+<script>
+    /**
+     * Add attributes to Thebelab blocks
+     */
+
+    const initThebelab = () => {
+        const addThebelabToCodeCells = () => {
+            console.log("Adding thebelab to code cells...");
+            // If Thebelab hasn't loaded, wait a bit and try again. This
+            // happens because we load ClipboardJS asynchronously.
+            if (window.thebelab === undefined) {
+                setTimeout(addThebelabToCodeCells, 250)
+            return
+            }
+
+            // If we already detect a Thebelab cell, don't re-run
+            if (document.querySelectorAll('div.thebelab-cell').length > 0) {
+                return;
+            }
+
+            // Find all code cells, replace with Thebelab interactive code cells
+            const codeCells = document.querySelectorAll('.input_area pre')
+            codeCells.forEach((codeCell, index) => {
+                const id = codeCellId(index)
+                codeCell.setAttribute('data-executable', 'true')
+
+                // Figure out the language it uses and add this too
+                var parentDiv = codeCell.parentElement.parentElement;
+                var arrayLength = parentDiv.classList.length;
+                for (var ii = 0; ii < arrayLength; ii++) {
+                    var parts = parentDiv.classList[ii].split('language-');
+                    if (parts.length === 2) {
+                        // If found, assign dataLanguage and break the loop
+                        var dataLanguage = parts[1];
+                        break;
+                    }
+                }
+                codeCell.setAttribute('data-language', dataLanguage)
+
+                // If the code cell is hidden, show it
+                var inputCheckbox = document.querySelector(`input#hidebtn${codeCell.id}`);
+                if (inputCheckbox !== null) {
+                    setCodeCellVisibility(inputCheckbox, 'visible');
+                }
+            });
+
+            // Remove the event listener from the page so keyboard press doesn't
+            // Change page
+            document.removeEventListener('keydown', initPageNav)
+            keyboardListener = false;
+
+            // Init thebelab
+            thebelab.bootstrap();
+
+            // Remove copy buttons since they won't work anymore
+            const copyAndThebeButtons = document.querySelectorAll('.copybtn, .thebebtn')
+            copyAndThebeButtons.forEach((button, index) => {
+                button.remove();
+            });
+
+            // Remove outputs since they'll be stale
+            const outputs = document.querySelectorAll('.output *, .output')
+            outputs.forEach((output, index) => {
+                output.remove();
+            });
+
+            // Find any cells with an initialization tag and ask ThebeLab to run them when ready
+            var thebeInitCells = document.querySelectorAll('div.tag_thebelab-init');
+            thebeInitCells.forEach((cell) => {
+                console.log("Initializing ThebeLab with cell: " + cell.id);
+                cell.querySelector('.thebelab-run-button').click();
+            });
+        }
+
+        // Add event listener for the function to modify code cells
+        const thebelabButtons = document.querySelectorAll('[id^=thebelab], [id$=thebelab]')
+        thebelabButtons.forEach((thebelabButton,index) => {
+            if (thebelabButton === null) {
+                setTimeout(initThebelab, 250)
+                return
+            };
+            thebelabButton.addEventListener('click', addThebelabToCodeCells);
+        });
+    }
+
+    // Initialize Thebelab
+    initFunction(initThebelab);
+</script>
+
+
+
+  <!-- Load the auto-generating TOC (non-async otherwise the TOC won't load w/ turbolinks) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js" async></script>
+  <script src="/voteA/assets/js/tocbot.js"></script>
+
+  <!-- Google analytics -->
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+  <!-- Clipboard copy button -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" async></script>
+
+  <!-- Load custom website scripts -->
+  <script src="/voteA/assets/js/scripts.js" async></script>
+
+  <!-- Load custom user CSS and JS  -->
+  <script src="/voteA/assets/custom/custom.js" async></script>
+  <link rel="stylesheet" href="/voteA/assets/custom/custom.css">
+
+  <!-- Update interact links w/ REST param, is defined in includes so we can use templates -->
+  
+
+  <!-- Lunr search code - will only be executed on the /search page -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js" async></script>
+  <script>var initQuery = function() {
+  // See if we have a search box
+  var searchInput = document.querySelector('input#lunr_search');
+  if (searchInput === null) {
+    return;
+  }
+
+  // Function to parse our lunr cache
+  var idx = lunr(function () {
+    this.field('title')
+    this.field('excerpt')
+    this.field('categories')
+    this.field('tags')
+    this.ref('id')
+
+    this.pipeline.remove(lunr.trimmer)
+
+    for (var item in store) {
+      this.add({
+        title: store[item].title,
+        excerpt: store[item].excerpt,
+        categories: store[item].categories,
+        tags: store[item].tags,
+        id: item
+      })
+    }
+  });
+
+  // Run search upon keyup
+  searchInput.addEventListener('keyup', function () {
+    var resultdiv = document.querySelector('#results');
+    var query = document.querySelector("input#lunr_search").value.toLowerCase();
+    var result =
+      idx.query(function (q) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(" ") != query.length-1){
+            q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          }
+          if (term != ""){
+            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
+      });
+
+      // Empty the results div
+      while (resultdiv.firstChild) {
+        resultdiv.removeChild(resultdiv.firstChild);
+      }
+
+    resultdiv.insertAdjacentHTML('afterbegin', '<p class="results__found">'+result.length+' Result(s) found</p>');
+    for (var item in result) {
+      var ref = result[item].ref;
+      if(store[ref].teaser){
+        var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<div class="archive__item-teaser">'+
+                '<img src="'+store[ref].teaser+'" alt="">'+
+              '</div>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      else{
+    	  var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      resultdiv.insertAdjacentHTML('beforeend', searchitem);
+    }
+  });
+};
+
+initFunction(initQuery);
+</script>
+
+  <!-- Load JS that depends on site variables -->
+  <script src="/voteA/assets/js/copy-button.js" async></script>
+
+  <!-- Hide cell code -->
+  <script src="/voteA/assets/js/hide-cell.js" async></script>
+
+  <!-- Printing the screen -->
+  <!-- Include nbinteract for interactive widgets -->
+<script src="https://printjs-4de6.kxcdn.com/print.min.js" async></script>
+<script>
+printContent = () => {
+    // MathJax displays a second version of any math for assistive devices etc.
+    // This prevents double-rendering in the PDF output.
+    var ignoreAssistList = [];
+    assistives = document.querySelectorAll('.MathJax_Display span.MJX_Assistive_MathML').forEach((element, index) => {
+        var thisId = 'MathJax-assistive-' + index.toString();
+        element.setAttribute('id', thisId);
+        ignoreAssistList.push(thisId)
+    });
+
+    // Print the actual content object
+    printJS({
+        printable: 'textbook_content',
+        type: 'html',
+        css: "/voteA/assets/css/styles.css",
+        scanStyles: false,
+        targetStyles: ["*"],
+        ignoreElements: ignoreAssistList
+    })
+};
+
+initPrint = () => {
+    document.querySelector('#interact-button-print').addEventListener('click', printContent)
+}
+
+initFunction(initPrint)
+</script>
+
+</head>
+
+  <body>
+    <!-- .js-show-sidebar shows sidebar by default -->
+    <div id="js-textbook" class="c-textbook js-show-sidebar">
+      
+
+
+
+<nav id="js-sidebar" class="c-textbook__sidebar">
+  <a href="https://jupyter.org/jupyter-book/"><img src="/voteA/images/logo/logo.png" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/></a>
+  <h2 class="c-sidebar__title">Continuous Coverage of Critical Infrastructure</h2>
+  <ul class="c-sidebar__chapters">
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/intro.html"
+        >
+          
+          Electoral Journalism
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/integrity.html"
+                >
+                  
+                  Integrity
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/challenges.html"
+                >
+                  
+                  Challenges
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/buildingsystems.html"
+                >
+                  
+                  Building A Consensus Monitoring System
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/datajournalism.html"
+                >
+                  
+                  Finding data and data analysts in 9,000 jurisdictions
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/nbcactions.html"
+                >
+                  
+                  NBC Actions and Initiatives
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/template1.html"
+                >
+                  
+                  Building a data template for each jurisdiction
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/questions.html"
+                >
+                  
+                  Questions for Each Jurisdiction
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/electionnews.html"
+                >
+                  
+                  Election News
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/stories.html"
+                >
+                  
+                  Continuous Infrastructure Stories
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/reporters.html"
+                >
+                  
+                  Reporters
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/criticalinf/overview.html"
+        >
+          
+          Critical Infrastructure Journalism
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Cybersecurity
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Power grid
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Water systems
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Smart Buildings
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/resources/overview.html"
+        >
+          
+          Voting-- Sources and Resources
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/organizations.html"
+                >
+                  
+                  Organizations
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/people.html"
+                >
+                  
+                  People
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/bibliography.html"
+                >
+                  
+                  Bibliography
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+        <li><h2 class="c-sidebar__title">Voting Integrity Technology-Current and Future</li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href=".html"
+        >
+          
+          Risk Limiting Audits
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/paper.html"
+        >
+          
+          Paper ballots
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/ballotcast.html"
+        >
+          
+          Ballot casting machines
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/ballotcount.html"
+        >
+          
+          Ballot counting machines
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/mailvote.html"
+        >
+          
+          Vote by mail
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+        <li><h2 class="c-sidebar__title">Data Science for Election Analysis</li>
+        
+      
+      
+        <li class="c-sidebar__divider"></li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="https://github.com/jupyter/jupyter-book"
+        >
+          
+          GitHub repository
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href=".html"
+        >
+          
+            1.
+          
+          Search
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+        <li class="c-sidebar__divider"></li>
+        
+      
+      
+        <li><h2 class="c-sidebar__title">Demo book example for data journalists</li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/features/features.html"
+        >
+          
+          Creating a book
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/features/markdown.html"
+                >
+                  
+                  Markdown files
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/features/notebooks.html"
+                >
+                  
+                  Jupyter notebooks
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+  </ul>
+  <p class="sidebar_footer">Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter Book</a></p>
+</nav>
+
+      
+      <div class="c-topbar" id="top-navbar">
+  <!-- We show the sidebar by default so we use .is-active -->
+  <div class="c-topbar__buttons">
+    <button
+      id="js-sidebar-toggle"
+      class="hamburger hamburger--arrowalt is-active"
+    >
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <div class="buttons">
+<div class="download-buttons-dropdown">
+    <button id="dropdown-button-trigger" class="interact-button"><i class="fa fa-download"></i></button>
+    <div class="download-buttons">
+        
+        <a id="interact-button-print"><button id="interact-button-download" class="interact-button">PDF</button></a>
+    </div>
+</div>
+
+</div>
+
+  </div>
+  <!-- Empty sidebar placeholder that we'll auto-fill with javascript -->
+  <aside class="sidebar__right">
+    <header><h4 class="nav__title"><i class="fa fa-list"></i>   On this page</h4></header>
+    <nav class="onthispage">
+    </nav>
+  </aside>
+  <a href="/voteA/search.html" class="topbar-right-button" id="search-button"><i class="fa fa-search"></i></a>
+</div>
+
+      <main class="c-textbook__page" tabindex="-1">
+            <div class="c-textbook__content" id="textbook_content">
+              <div class="search-content__inner-wrap">
+    <input type="text" id="lunr_search" class="search-input" tabindex="-1" placeholder="'Enter your search term...''" />
+    <div id="results" class="results"></div>
+</div>
+
+<script>
+    // Add the lunr store since we will now search it
+    var store = [{
+        "title": "Critical Infrastructure Journalism",
+        
+        "excerpt":
+            "     Critical infrastructure journalism  How to report on the functioning of millions of semi-autonomous systems that control our power grids, our water systems, our smart buildings, our traffic systems, our networks, our transportation grid, our medical devices, our financial system, and more?  Electric grid: millions of control points             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/criticalinf/overview.html",
+        "teaser":null},{
+        "title": "Creating a book",
+        
+        "excerpt":
+            "Features This is a short demonstration textbook to show the general layout / style of textbooks built with Jupyter and Jekyll. The markdown files for this page (and others in the textbook) is generated from the notebooks with the scripts/generate_textbook.py script, which is called when you run make book. The content for the book is contained in a folder in the book's repository called content/. It has a combination of markdown and Jupyter notebooks. This content is rendered into the textbook that you see here! To begin, click on one of the chapter sections in the sidebar to the left....",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/features/features.html",
+        "teaser":null},{
+        "title": "Markdown files",
+        
+        "excerpt":
+            "Creating book content The two kinds of files that contain course content are: Jupyter Notebooks Markdown files Each are contained in the content/ folder and referenced from _data/toc.yml. If the file is markdown, it will be copied over with front-matter YAML added so that Jekyll can parse it Sidebars with Jekyll You may notice that there's a sidebar to the right (if your screen is wide enough). These are automatically generated from the headers that are present in your page. The sidebar will automatically capture all 2nd and 3rd level section headers. The best way to designate these headers is...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/features/markdown.html",
+        "teaser":null},{
+        "title": "Jupyter notebooks",
+        
+        "excerpt":
+            "Content with notebooks You can also create content with Jupyter Notebooks. The content for the current page is contained in a Jupyter Notebook in the notebooks/ folder of the repository. This means that we can include code blocks and their outputs, and export them to Jekyll markdown. You can find the original notebook for this page at this address Markdown + notebooks As it is markdown, you can embed images, HTML, etc into your posts! You an also $add_{math}$ and $$ math^{blocks} $$or $$ \\begin{align*} \\mbox{mean} la_{tex} \\\\ \\\\ math blocks \\end{align*} $$But make sure you \\$Escape \\$your \\$dollar signs...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/features/notebooks.html",
+        "teaser":null},{
+        "title": "Interviews",
+        
+        "excerpt":
+            "     Interview templates   Establish baseline facts Assess current state of voting system: budget, political management, history, performance metrics   Registrar story Secretary of State story             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/interviews/template1.html",
+        "teaser":null},{
+        "title": "Electoral Journalism",
+        
+        "excerpt":
+            "Current draft: 18Oct2019.1156pst Journalism and Vote2020 Threats against the integrity of our elections challenge American democracy. Today's partisan environment could destroy America's trust in our election systems in 2020. Can we verify the integrity of our elections in a way that most Americans would trust? Specifically, can American journalism build a national common understanding of how to monitor the integrity of our democracy? This site outlines how to join news organizations with tens of thousands of students and faculty across America currently enrolled in data science courses to build a new way to monitor election integrity, understand the data generated...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/intro.html",
+        "teaser":null},{
+        "title": "Building A Consensus Monitoring System",
+        
+        "excerpt":
+            "Building How to build the system How can ethical journalism help an American citizen understand how our election systems work, how our systems can be improved, and how we can decide to trust the results? Our best way to answer that question is to observe these systems at work, continuously, throughout the process, assess performance, and report the results. This site proposes several ways to build a national continuous news network to examine our critical national infrastructures. As we develop methods to examine our critical election systems, those same methods may be applied to America's other critical infrastructures, those controlling...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/buildingsystems.html",
+        "teaser":null},{
+        "title": "Challenges",
+        
+        "excerpt":
+            "Challenges Will 9,000 US voting jurisdictions be able to safeguard their voting systems in 2020? Do they know how? Is there money enough and time enough to upgrade or replace the most vulnerable elements of today's election and voting systems? in the next five months before the primaries? or in the next twelve months in the runup to November, 2020? What are those vulnerable elements, and how do I know if they are used where I vote? Or used in swing states or closely contested elections that I care about? What do we need to do to put in place...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/challenges.html",
+        "teaser":null},{
+        "title": "Finding data and data analysts in 9,000 jurisdictions",
+        
+        "excerpt":
+            "Data Journalism Building journalism data science templates for the 50,000 students now taking data science courses Thousands of data science faculty members are hunting for relevant data sets and relevant analytic frameworks to assign to their students as homework. Build a Jupyter Notebook for analyzing data from any voting jurisdiction, and any academic institution in that jurisdiction will use it. This is the answer to the problem of recruiting data sources and data analyses from 9,000 voting jurisdictions. See EdX Data Science courses from Berkeley, Harvard, MIT Sign up for the UC Berkeley Data Science 8x course. Free. Watch the...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/datajournalism.html",
+        "teaser":null},{
+        "title": "Election News",
+        
+        "excerpt":
+            "     Election News Updates  Verified Voting Election News  Election Law Blog: Rick Hasen, UC Irvine Law School             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/electionnews.html",
+        "teaser":null},{
+        "title": "Integrity",
+        
+        "excerpt":
+            "Integrity Integrity of American journalism The integrity of American journalism may be the most important force determining how American voters view the validity of the highly contested 2020 elections. And the integrity of American journalism is under attack. This is an opportunity to build a new level of belief in journalistic integrity, using our ability to examine facts generated by our election systems, evaluate them in real time, report on them, and analyze them to validate or challenge election results. How well we do this may affect how American democracy persists | develops | survives | continues. By building the...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/integrity.html",
+        "teaser":null},{
+        "title": "NBC Actions and Initiatives",
+        
+        "excerpt":
+            "NBC actions NBC actions Inventory NBC Resources New York Bureaus O&amp;O Affiliates Producers Reporters Analytics and Statistics Department: Existing Jupyter Notebooks; present and planned map and interactive displays for anchors, guests. Web site engineering: design of data visualizations, maps: move to Jupyter Notebooks, using new J3-like capabilities. Assess time investment in working with other organizations Discuss alliance with NYT Future Journalism group Build web site incorporating example Jupyter Notebooks; This week, set up tutorial sessions or plenary presentations of NBC's new Continuous Data Journalism Present at all journalism conferences cited below. Provide tools to all conference attendees. Pitch Knight Foundation,...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/nbcactions.html",
+        "teaser":null},{
+        "title": "Media",
+        
+        "excerpt":
+            "Overview of major journalism programs for Election 2020 Reporter template to capture the basic outline of a registration and voting system, with figures of merit. Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements enable comparisons and rankings. How can a reporter build a picture quickly, for any jurisdiction? Core question Basic Answer Figure of Merit Who can vote? Geography; age; citizenship; status (felon,service member) Eligible / Total population; Voted/Eligible Who did vote? Percent by age; by party; by sex; by renter/owner; by race;...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/overview.html",
+        "teaser":null},{
+        "title": "Questions for Each Jurisdiction",
+        
+        "excerpt":
+            "Reporter's questions to build baseline data for a jurisdiction for Election 2020 Goal: build a Reporter Template to capture the basic outline of a registration and voting system in a jurisdiction, with figures of merit. Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements enable comparisons and rankings. How can a reporter build a picture quickly, for any jurisdiction? Core question Basic Answer Figure of Merit Example Who could vote? Geography; age; citizenship; status (felon,service member) Eligible/Total population; Registered/Eligible; Voted/Registered ; VEP is best:...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/questions.html",
+        "teaser":null},{
+        "title": "Reporters",
+        
+        "excerpt":
+            "     Reporters    Reporter Organization Story     Joseph Marks Washington Post    Tonya Riley Washington Post    Jacob Ward NBC    Bill Clark Wired    Andrew Harrer Bloomberg    Steven Stover Army Times Avengercon III   Olivia Gazis CBS NSA role   Jordan Wilkie Carolina Public Press NC Board of Elections: 18Oct19   Karolina Buczek  WLEX-18-NBC: Louisville, KY Kentucky State election security: 16Oct19                    ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/reporters.html",
+        "teaser":null},{
+        "title": "Continuous Infrastructure Stories",
+        
+        "excerpt":
+            "Design a framework for continuous coverage stories, allowing continuous updates How to generate continuous coverage of the state of America's election infrastructure? Same challenge for news organizations as in covering electric or water infrastructure: Ubiquituous: 9,000 election districts; 15,000 water districts in California; Highly skewed: a few very big ones, a huge majority very small ones Ostensibly apolitical, but fundamentally political; viz Flint Boring, hard to explain why a power system failed (except PG&amp;E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/stories.html",
+        "teaser":null},{
+        "title": "Building a data template for each jurisdiction",
+        
+        "excerpt":
+            "     Interview templates   Establish baseline facts Assess current state of voting system: budget, political management, history, performance metrics   Registrar story Secretary of State story             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/journalism/template1.html",
+        "teaser":null},{
+        "title": "Media",
+        
+        "excerpt":
+            "Overview of major journalism programs for Election 2020 Reporter template to capture the basic outline of a registration and voting system, with figures of merit. Whether it's a high school student body election, a school board election, a city council election, a congressional election, or a Presidential election, common elements enable comparisons and rankings. How can a reporter build a picture quickly, for any jurisdiction? Core question Basic Answer Figure of Merit Who can vote? Geography; age; citizenship; status (felon,service member) Eligible / Total population; Voted/Eligible Who did vote? Percent by age; by party; by sex; by renter/owner; by race;...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/media/overview.html",
+        "teaser":null},{
+        "title": "Reporters",
+        
+        "excerpt":
+            "     Reporters    Reporter Organization Story     Joseph Marks Washington Post    Tonya Riley Washington Post    Jacob Ward NBC    Bill Clark Wired    Andrew Harrer Bloomberg    Steven Stover Army Times Avengercon III   Olivia Gazis CBS NSA role   Jordan Wilkie Carolina Public Press NC Board of Elections: 18Oct19   Karolina Buczek  WLEX-18-NBC: Louisville, KY Kentucky State election security: 16Oct19                    ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/media/reporters.html",
+        "teaser":null},{
+        "title": "Continuous Infrastructure Stories",
+        
+        "excerpt":
+            "Story Frameworks for continuous coverage How to generate continuous coverage of the state of America's election infrastructure? Same challenge for news organizations as in covering electric or water infrastructure: Ubiquituous: 9,000 election districts; 15,000 water districts in California; Highly skewed: a few very big ones, a huge majority very small ones Ostensibly apolitical, but fundamentally political; viz Flint Boring, hard to explain why a power system failed (except PG&amp;E) or a water system failed (Flint); but, instant understanding of impact on lives when failures occur. Leads to stories on how to prevent failures in the future.But, these stories are rarely...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/media/stories.html",
+        "teaser":null},{
+        "title": "Bibliography",
+        
+        "excerpt":
+            "     Readings and Links  The Future of Election Administration Mitchell Brown is Professor of Political Science at Auburn University, USA.  Kathleen Hale is Professor of Political Science and director of the graduate program in election administration at Auburn University, USA.  Bridgett A.  King is Assistant Professor of Political Science and director of the MPA Program at Auburn University, USA.  The Future of Election Administration:Cases and Conversations Mitchell Brown Kathleen Hale Bridgett A. King  Administering Elections How American Elections Work Authors: Hale, Kathleen, Montjoy, Robert, Brown, Mitchell             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/resources/bibliography.html",
+        "teaser":null},{
+        "title": "Organizations",
+        
+        "excerpt":
+            "Resources Organization Full Name Membership Contact Verified Voting OSET NYU Brennan Center For Justice Democracy Works Free and Fair Organization Full Name Membership Contact NASED National Association of State Election Directors Professional association of state chief election officials in the states Election Center Training and certification of election administrators and other election professionals EAC Election Assistance Commission Standards Board 110 members Board of Advisors 35 members TGDC Technical Guidelines Development Committee 15 members DHS Department of Homeland Security Matthew Masterson matthew.masterson@hq.dhs.gov DARPA NIST Cybersecurity Directorate, US CyberCommand Books Barbara Simons: Articles CBS Academic centers Organization Full Name Membership Contact MIT...",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/resources/organizations.html",
+        "teaser":null},{
+        "title": "Sources and Resources",
+        
+        "excerpt":
+            "     Available Resources   Election resources Voting system Resources Individual expert sources On-line resources             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/resources/overview.html",
+        "teaser":null},{
+        "title": "People",
+        
+        "excerpt":
+            "     People  People  Government    Name Organization Contact Expertise     Anne Neuberger CyberCommand      Academic    Name Organization Contact Expertise     Lawrence Norden Brennan Center    Philip Stark, UC Berkeley                  Ron Rivest MIT     David Wagner UC Berkeley Goldman School     Henry Brady UC Berkeley     Andy Appel Princeton      Ed Felten Princeton      Alex Halderman Michigan      Avi Rubin Johns Hopkins      Bruce Schneir Harvard Kennedy School      Independent Action    Name Organization Contact Expertise     Susan Greenhalgh National Election Defense Coalition     Free and Fair     Democracy Works    Money   Marc Andreesen Satya Nadella John Doerr             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/resources/people.html",
+        "teaser":null},{
+        "title": "Resources",
+        
+        "excerpt":
+            "Resources DARPA NIST Verified Voting OSET Brennan Center, Columbia Cybersecurity Directorate, US CyberCommand People Anne Neuberger, CyberCommand Lawrence Norden, Brennan Center Philip Starck, UC Berkeley Money Marc Andreesen Satya Nadella John Doerr Books Barbara Simons: Articles CBS Academic centers Alex Stamos MIT Berkeley Technical Centers NSA DISA Conferences Intelligence and National Security Alliance (INSA) Summit DEFCON Black Hat Briefings AvengerCon III 2018 A Company (the Avengers), 781st Military Intelligence (MI) Battalion (Cyber) Capt. Skyler Onken, commander of A Co., 781st MI Battalion Capt. Stephen Rogacki Chris Eagle, professor at the Naval Post Graduate School and a former Navy lieutenant commander....",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/resources/resources.html",
+        "teaser":null},{
+        "title": "Ballot casting machines",
+        
+        "excerpt":
+            "     Ballot Casting Machines             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/technology/ballotcast.html",
+        "teaser":null},{
+        "title": "Ballot counting machines",
+        
+        "excerpt":
+            "     Ballot Counting             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/technology/ballotcount.html",
+        "teaser":null},{
+        "title": "Vote by mail",
+        
+        "excerpt":
+            "     Vote By Mail             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/technology/mailvote.html",
+        "teaser":null},{
+        "title": "Paper ballots",
+        
+        "excerpt":
+            "     Paper Ballots             ",
+        "categories": [],
+        "tags": [],
+        "url": "https://johngage.github.io/voteA/technology/paper.html",
+        "teaser":null},]
+</script>
+            </div>
+            <nav class="c-page__nav">
+  
+
+  
+</nav>
+
+            <footer>
+  <p class="footer">This page was created by <a href="https://github.com/jupyter/jupyter-book/graphs/contributors">The Jupyter Book Community</a></p>
+</footer>
+
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

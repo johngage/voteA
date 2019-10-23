@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <title>NBC Actions and Initiatives</title>
+  <meta name="description" content="NBC actions NBC actions Inventory NBC Resources New YorkBureausO&amp;OAffiliatesProducersReportersAnalytics and Statistics Department: Existing Jupyter Noteb...">
+
+  <link rel="canonical" href="https://johngage.github.io/voteA/journalism/nbcactions.html">
+  <link rel="alternate" type="application/rss+xml" title="Continuous Coverage of Critical Infrastructure" href="https://johngage.github.io/voteA/feed.xml">
+
+  <meta property="og:url"         content="https://johngage.github.io/voteA/journalism/nbcactions.html" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="NBC Actions and Initiatives" />
+<meta property="og:description" content="NBC actions NBC actions Inventory NBC Resources New YorkBureausO&amp;OAffiliatesProducersReportersAnalytics and Statistics Department: Existing Jupyter Noteb..." />
+<meta property="og:image"       content="https://johngage.github.io/voteA/images/logo/logo.png" />
+
+<meta name="twitter:card" content="summary">
+
+
+  <script type="application/ld+json">
+  {
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://johngage.github.io/voteA/journalism/nbcactions.html",
+  "headline": "NBC Actions and Initiatives",
+  "datePublished": "2019-10-23T10:58:48-07:00",
+  "dateModified": "2019-10-23T10:58:48-07:00",
+  "description": "NBC actions NBC actions Inventory NBC Resources New YorkBureausO&amp;OAffiliatesProducersReportersAnalytics and Statistics Department: Existing Jupyter Noteb...",
+  "author": {
+    "@type": "Person",
+    "name": "John Gage"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data 100 at UC Berkeley",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://johngage.github.io/voteA",
+      "width": 60,
+      "height": 60
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://johngage.github.io/voteA",
+    "height": 60,
+    "width": 60
+  }
+}
+
+  </script>
+  <link rel="stylesheet" href="/voteA/assets/css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/regular.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/solid.css">
+
+  <!-- <link rel="manifest" href="/manifest.json"> -->
+  <!-- <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#efae0a"> -->
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#233947">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="/voteA/images/logo/favicon.ico">
+
+  <!-- MathJax Config -->
+  <!-- Allow inline math using $ and automatically break long math lines -->
+<!-- (mostly) copied from nbconvert configuration -->
+<!-- https://github.com/jupyter/nbconvert/blob/master/nbconvert/templates/html/mathjax.tpl -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+        processEnvironments: true
+    },
+    // Center justify equations in code and markdown cells. Elsewhere
+    // we use CSS to left justify single line equations in code cells.
+    displayAlign: 'center',
+    "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 0}},
+        linebreaks: { automatic: true },
+    }
+});
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_HTML' async></script>
+
+
+  <!-- DOM updating function -->
+  <script src="/voteA/assets/js/dom-update.js"></script>
+
+  <!-- Selectors for elements on the page -->
+  <script src="/voteA/assets/js/documentSelectors.js"></script>
+
+  <!-- Define some javascript variables that will be useful in other javascript -->
+  <script>
+    const site_basename = '/voteA';
+  </script>
+
+  <!-- Add AnchorJS to let headers be linked -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js" async></script>
+  <script src="/voteA/assets/js/anchors.js" async></script>
+
+  <!-- Include Turbolinks to make page loads fast -->
+  <!-- https://github.com/turbolinks/turbolinks -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/turbolinks/5.2.0/turbolinks.js" async></script>
+  <meta name="turbolinks-cache-control" content="no-cache">
+
+  <!-- Load nbinteract for widgets -->
+  
+
+  <!-- Load Thebelab for interactive widgets -->
+  <!-- Include Thebelab for interactive code if it's enabled -->
+
+
+<!-- Display Thebelab button in each code cell -->
+<script>
+/**
+ * Set up thebelab button for code blocks
+ */
+
+const thebelabCellButton = id =>
+  `<a id="thebelab-cell-button-${id}" class="btn thebebtn o-tooltip--left" data-tooltip="Interactive Mode">
+    <img src="/voteA/assets/images/edit-button.svg" alt="Start interactive mode">
+  </a>`
+
+
+const addThebelabButtonToCodeCells =  () => {
+
+  const codeCells = document.querySelectorAll('div.input_area > div.highlight:not(.output) pre')
+  codeCells.forEach((codeCell, index) => {
+    const id = codeCellId(index)
+    codeCell.setAttribute('id', id)
+    if (document.getElementById("thebelab-cell-button-" + id) == null) {
+      codeCell.insertAdjacentHTML('afterend', thebelabCellButton(id));
+    }
+  })
+}
+
+initFunction(addThebelabButtonToCodeCells);
+</script>
+
+
+
+<script type="text/x-thebe-config">
+    {
+      requestKernel: true,
+      binderOptions: {
+        repo: 'YOUR-ORG/YOUR-REPO',
+        ref: 'gh-pages',
+      },
+      codeMirrorConfig: {
+        theme: "abcdef"
+      },
+      kernelOptions: {
+        name: 'python3',
+      }
+    }
+</script>
+<script src="https://unpkg.com/thebelab@0.4.0/lib/index.js" async></script>
+<script>
+    /**
+     * Add attributes to Thebelab blocks
+     */
+
+    const initThebelab = () => {
+        const addThebelabToCodeCells = () => {
+            console.log("Adding thebelab to code cells...");
+            // If Thebelab hasn't loaded, wait a bit and try again. This
+            // happens because we load ClipboardJS asynchronously.
+            if (window.thebelab === undefined) {
+                setTimeout(addThebelabToCodeCells, 250)
+            return
+            }
+
+            // If we already detect a Thebelab cell, don't re-run
+            if (document.querySelectorAll('div.thebelab-cell').length > 0) {
+                return;
+            }
+
+            // Find all code cells, replace with Thebelab interactive code cells
+            const codeCells = document.querySelectorAll('.input_area pre')
+            codeCells.forEach((codeCell, index) => {
+                const id = codeCellId(index)
+                codeCell.setAttribute('data-executable', 'true')
+
+                // Figure out the language it uses and add this too
+                var parentDiv = codeCell.parentElement.parentElement;
+                var arrayLength = parentDiv.classList.length;
+                for (var ii = 0; ii < arrayLength; ii++) {
+                    var parts = parentDiv.classList[ii].split('language-');
+                    if (parts.length === 2) {
+                        // If found, assign dataLanguage and break the loop
+                        var dataLanguage = parts[1];
+                        break;
+                    }
+                }
+                codeCell.setAttribute('data-language', dataLanguage)
+
+                // If the code cell is hidden, show it
+                var inputCheckbox = document.querySelector(`input#hidebtn${codeCell.id}`);
+                if (inputCheckbox !== null) {
+                    setCodeCellVisibility(inputCheckbox, 'visible');
+                }
+            });
+
+            // Remove the event listener from the page so keyboard press doesn't
+            // Change page
+            document.removeEventListener('keydown', initPageNav)
+            keyboardListener = false;
+
+            // Init thebelab
+            thebelab.bootstrap();
+
+            // Remove copy buttons since they won't work anymore
+            const copyAndThebeButtons = document.querySelectorAll('.copybtn, .thebebtn')
+            copyAndThebeButtons.forEach((button, index) => {
+                button.remove();
+            });
+
+            // Remove outputs since they'll be stale
+            const outputs = document.querySelectorAll('.output *, .output')
+            outputs.forEach((output, index) => {
+                output.remove();
+            });
+
+            // Find any cells with an initialization tag and ask ThebeLab to run them when ready
+            var thebeInitCells = document.querySelectorAll('div.tag_thebelab-init');
+            thebeInitCells.forEach((cell) => {
+                console.log("Initializing ThebeLab with cell: " + cell.id);
+                cell.querySelector('.thebelab-run-button').click();
+            });
+        }
+
+        // Add event listener for the function to modify code cells
+        const thebelabButtons = document.querySelectorAll('[id^=thebelab], [id$=thebelab]')
+        thebelabButtons.forEach((thebelabButton,index) => {
+            if (thebelabButton === null) {
+                setTimeout(initThebelab, 250)
+                return
+            };
+            thebelabButton.addEventListener('click', addThebelabToCodeCells);
+        });
+    }
+
+    // Initialize Thebelab
+    initFunction(initThebelab);
+</script>
+
+
+
+  <!-- Load the auto-generating TOC (non-async otherwise the TOC won't load w/ turbolinks) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js" async></script>
+  <script src="/voteA/assets/js/tocbot.js"></script>
+
+  <!-- Google analytics -->
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+
+  <!-- Clipboard copy button -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" async></script>
+
+  <!-- Load custom website scripts -->
+  <script src="/voteA/assets/js/scripts.js" async></script>
+
+  <!-- Load custom user CSS and JS  -->
+  <script src="/voteA/assets/custom/custom.js" async></script>
+  <link rel="stylesheet" href="/voteA/assets/custom/custom.css">
+
+  <!-- Update interact links w/ REST param, is defined in includes so we can use templates -->
+  
+
+  <!-- Lunr search code - will only be executed on the /search page -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.6/lunr.min.js" async></script>
+  <script>var initQuery = function() {
+  // See if we have a search box
+  var searchInput = document.querySelector('input#lunr_search');
+  if (searchInput === null) {
+    return;
+  }
+
+  // Function to parse our lunr cache
+  var idx = lunr(function () {
+    this.field('title')
+    this.field('excerpt')
+    this.field('categories')
+    this.field('tags')
+    this.ref('id')
+
+    this.pipeline.remove(lunr.trimmer)
+
+    for (var item in store) {
+      this.add({
+        title: store[item].title,
+        excerpt: store[item].excerpt,
+        categories: store[item].categories,
+        tags: store[item].tags,
+        id: item
+      })
+    }
+  });
+
+  // Run search upon keyup
+  searchInput.addEventListener('keyup', function () {
+    var resultdiv = document.querySelector('#results');
+    var query = document.querySelector("input#lunr_search").value.toLowerCase();
+    var result =
+      idx.query(function (q) {
+        query.split(lunr.tokenizer.separator).forEach(function (term) {
+          q.term(term, { boost: 100 })
+          if(query.lastIndexOf(" ") != query.length-1){
+            q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          }
+          if (term != ""){
+            q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+          }
+        })
+      });
+
+      // Empty the results div
+      while (resultdiv.firstChild) {
+        resultdiv.removeChild(resultdiv.firstChild);
+      }
+
+    resultdiv.insertAdjacentHTML('afterbegin', '<p class="results__found">'+result.length+' Result(s) found</p>');
+    for (var item in result) {
+      var ref = result[item].ref;
+      if(store[ref].teaser){
+        var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<div class="archive__item-teaser">'+
+                '<img src="'+store[ref].teaser+'" alt="">'+
+              '</div>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      else{
+    	  var searchitem =
+          '<div class="list__item">'+
+            '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">'+
+              '<h2 class="archive__item-title" itemprop="headline">'+
+                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
+              '</h2>'+
+              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
+            '</article>'+
+          '</div>';
+      }
+      resultdiv.insertAdjacentHTML('beforeend', searchitem);
+    }
+  });
+};
+
+initFunction(initQuery);
+</script>
+
+  <!-- Load JS that depends on site variables -->
+  <script src="/voteA/assets/js/copy-button.js" async></script>
+
+  <!-- Hide cell code -->
+  <script src="/voteA/assets/js/hide-cell.js" async></script>
+
+  <!-- Printing the screen -->
+  <!-- Include nbinteract for interactive widgets -->
+<script src="https://printjs-4de6.kxcdn.com/print.min.js" async></script>
+<script>
+printContent = () => {
+    // MathJax displays a second version of any math for assistive devices etc.
+    // This prevents double-rendering in the PDF output.
+    var ignoreAssistList = [];
+    assistives = document.querySelectorAll('.MathJax_Display span.MJX_Assistive_MathML').forEach((element, index) => {
+        var thisId = 'MathJax-assistive-' + index.toString();
+        element.setAttribute('id', thisId);
+        ignoreAssistList.push(thisId)
+    });
+
+    // Print the actual content object
+    printJS({
+        printable: 'textbook_content',
+        type: 'html',
+        css: "/voteA/assets/css/styles.css",
+        scanStyles: false,
+        targetStyles: ["*"],
+        ignoreElements: ignoreAssistList
+    })
+};
+
+initPrint = () => {
+    document.querySelector('#interact-button-print').addEventListener('click', printContent)
+}
+
+initFunction(initPrint)
+</script>
+
+</head>
+
+  <body>
+    <!-- .js-show-sidebar shows sidebar by default -->
+    <div id="js-textbook" class="c-textbook js-show-sidebar">
+      
+
+
+
+<nav id="js-sidebar" class="c-textbook__sidebar">
+  <a href="https://jupyter.org/jupyter-book/"><img src="/voteA/images/logo/logo.png" class="textbook_logo" id="sidebar-logo" data-turbolinks-permanent/></a>
+  <h2 class="c-sidebar__title">Continuous Coverage of Critical Infrastructure</h2>
+  <ul class="c-sidebar__chapters">
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/intro.html"
+        >
+          
+          Electoral Journalism
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/integrity.html"
+                >
+                  
+                  Integrity
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/challenges.html"
+                >
+                  
+                  Challenges
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/buildingsystems.html"
+                >
+                  
+                  Building A Consensus Monitoring System
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/datajournalism.html"
+                >
+                  
+                  Finding data and data analysts in 9,000 jurisdictions
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry c-sidebar__entry--active"
+                  href="/voteA/journalism/nbcactions.html"
+                >
+                  
+                  NBC Actions and Initiatives
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/template1.html"
+                >
+                  
+                  Building a data template for each jurisdiction
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/questions.html"
+                >
+                  
+                  Questions for Each Jurisdiction
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/electionnews.html"
+                >
+                  
+                  Election News
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/stories.html"
+                >
+                  
+                  Continuous Infrastructure Stories
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/journalism/reporters.html"
+                >
+                  
+                  Reporters
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/criticalinf/overview.html"
+        >
+          
+          Critical Infrastructure Journalism
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Cybersecurity
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Power grid
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Water systems
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/criticalinf/overview.html"
+                >
+                  
+                  Smart Buildings
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/resources/overview.html"
+        >
+          
+          Voting-- Sources and Resources
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/organizations.html"
+                >
+                  
+                  Organizations
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/people.html"
+                >
+                  
+                  People
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/resources/bibliography.html"
+                >
+                  
+                  Bibliography
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+      
+      
+        <li><h2 class="c-sidebar__title">Voting Integrity Technology-Current and Future</li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href=".html"
+        >
+          
+          Risk Limiting Audits
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/paper.html"
+        >
+          
+          Paper ballots
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/ballotcast.html"
+        >
+          
+          Ballot casting machines
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/ballotcount.html"
+        >
+          
+          Ballot counting machines
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/technology/mailvote.html"
+        >
+          
+          Vote by mail
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+        <li><h2 class="c-sidebar__title">Data Science for Election Analysis</li>
+        
+      
+      
+        <li class="c-sidebar__divider"></li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="https://github.com/jupyter/jupyter-book"
+        >
+          
+          GitHub repository
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href=".html"
+        >
+          
+            1.
+          
+          Search
+        </a>
+
+        
+      </li>
+
+      
+    
+      
+      
+        <li class="c-sidebar__divider"></li>
+        
+      
+      
+        <li><h2 class="c-sidebar__title">Demo book example for data journalists</li>
+        
+      
+      
+
+      
+      
+
+      
+      
+      <li class="c-sidebar__chapter">
+        <a class="c-sidebar__entry "
+          href="/voteA/features/features.html"
+        >
+          
+          Creating a book
+        </a>
+
+        
+
+          
+          
+          
+          
+
+          
+
+          <ul class="c-sidebar__sections ">
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/features/markdown.html"
+                >
+                  
+                  Markdown files
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+              
+              
+
+              <li class="c-sidebar__section">
+                <a class="c-sidebar__entry "
+                  href="/voteA/features/notebooks.html"
+                >
+                  
+                  Jupyter notebooks
+                </a>
+
+                
+                
+
+              </li>
+              
+            
+          </ul>
+        
+      </li>
+
+      
+    
+  </ul>
+  <p class="sidebar_footer">Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter Book</a></p>
+</nav>
+
+      
+      <div class="c-topbar" id="top-navbar">
+  <!-- We show the sidebar by default so we use .is-active -->
+  <div class="c-topbar__buttons">
+    <button
+      id="js-sidebar-toggle"
+      class="hamburger hamburger--arrowalt is-active"
+    >
+      <span class="hamburger-box">
+        <span class="hamburger-inner"></span>
+      </span>
+    </button>
+    <div class="buttons">
+<div class="download-buttons-dropdown">
+    <button id="dropdown-button-trigger" class="interact-button"><i class="fa fa-download"></i></button>
+    <div class="download-buttons">
+        <a href="/voteA/content/journalism/nbcactions.md" download>
+        <button id="interact-button-download" class="interact-button">ORIG</button>
+        </a>
+        
+        <a id="interact-button-print"><button id="interact-button-download" class="interact-button">PDF</button></a>
+    </div>
+</div>
+
+  <button id="interact-button-thebelab" class="interact-button">Thebelab</button>
+
+  
+  
+  
+
+
+</div>
+
+  </div>
+  <!-- Empty sidebar placeholder that we'll auto-fill with javascript -->
+  <aside class="sidebar__right">
+    <header><h4 class="nav__title"><i class="fa fa-list"></i>   On this page</h4></header>
+    <nav class="onthispage">
+    </nav>
+  </aside>
+  <a href="/voteA/search.html" class="topbar-right-button" id="search-button"><i class="fa fa-search"></i></a>
+</div>
+
+      <main class="c-textbook__page" tabindex="-1">
+            <div class="c-textbook__content" id="textbook_content">
+              <main class="jupyter-page">
+<div class="jb_cell">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="NBC-actions">NBC actions<a class="anchor-link" href="#NBC-actions"> </a></h1><h2 id="NBC-actions">NBC actions<a class="anchor-link" href="#NBC-actions"> </a></h2><h3 id="Inventory-NBC-Resources">Inventory NBC Resources<a class="anchor-link" href="#Inventory-NBC-Resources"> </a></h3><ul>
+<li>New York</li>
+<li>Bureaus</li>
+<li>O&amp;O</li>
+<li>Affiliates</li>
+<li>Producers</li>
+<li>Reporters</li>
+<li>Analytics and Statistics Department: Existing Jupyter Notebooks; present and planned map and interactive displays for anchors, guests.</li>
+<li>Web site engineering: design of data visualizations, maps: move to Jupyter Notebooks, using new J3-like capabilities.</li>
+</ul>
+<h3 id="Assess-time-investment-in-working-with-other-organizations">Assess time investment in working with other organizations<a class="anchor-link" href="#Assess-time-investment-in-working-with-other-organizations"> </a></h3><ul>
+<li>Discuss alliance with NYT Future Journalism group</li>
+</ul>
+<h3 id="Build-web-site-incorporating-example-Jupyter-Notebooks;">Build web site incorporating example Jupyter Notebooks;<a class="anchor-link" href="#Build-web-site-incorporating-example-Jupyter-Notebooks;"> </a></h3><h3 id="This-week,-set-up-tutorial-sessions-or-plenary-presentations-of-NBC's-new--Continuous-Data-Journalism">This week, set up tutorial sessions or plenary presentations of NBC's new <span style="color:red;font-size:120%;"> Continuous Data Journalism</span><a class="anchor-link" href="#This-week,-set-up-tutorial-sessions-or-plenary-presentations-of-NBC's-new--Continuous-Data-Journalism"> </a></h3><ul>
+<li>Present at all journalism conferences cited below. Provide tools to all conference attendees.</li>
+<li>Pitch Knight Foundation, Pierre Omidyar for funds</li>
+</ul>
+<h3 id="Create-national-movement-to-cover-local-voting-conditions">Create national movement to cover local voting conditions<a class="anchor-link" href="#Create-national-movement-to-cover-local-voting-conditions"> </a></h3><p>Develop local reporting and analysis in every jurisdiction, partnering with affilites and O&amp;O's, and with local educational institutions teaching data science.</p>
+<ul>
+<li>9,000 voting jurisdictions;</li>
+<li><a href="https://en.wikipedia.org/wiki/Special_district_(United_States">37,000 special districts: water, power, irrigation, storm</a> ;</li>
+<li><a href="https://en.wikipedia.org/wiki/School_district">20,000 school districts, public and private</a>;</li>
+<li><a href="http://www.citymayors.com/mayors/us-mayors.html">20,000 municipalities</a></li>
+</ul>
+<h3 id="Build-data-journalism-foundation-course-on-EdX">Build data journalism foundation course on <a href="https://www.edx.org">EdX</a><a class="anchor-link" href="#Build-data-journalism-foundation-course-on-EdX"> </a></h3><p>Collaboration between NBC, AP, and other news organizations, and:</p>
+<ol>
+<li>UC Berkeley Graduate School of Journalism, Columbia Journalism School, Missouri School of Journalism,</li>
+<li>National journalism associations</li>
+<li>Retired journalists, statisticians</li>
+<li>National engineering societies: IEEE, ACM, AWWS</li>
+<li>UC Berkeley Institute of Data Science; MIT Data Science; Stanford Data Science;</li>
+</ol>
+<h3 id="Use-traditional-beat-reporter-structure-at-national-and-affiliate-level,-but-add-more-local-stories,-and-recruit-new-local-sources-and-data-to-update-them-regularly.">Use traditional beat reporter structure at national and affiliate level, but add more local stories, and recruit new local sources and data to update them regularly.<a class="anchor-link" href="#Use-traditional-beat-reporter-structure-at-national-and-affiliate-level,-but-add-more-local-stories,-and-recruit-new-local-sources-and-data-to-update-them-regularly."> </a></h3><ul>
+<li>Pick representative districts, find representative people, cover over time. Recurrent updates, maybe bi-weekly. Build inventory of compelling people. Later, bring them together physically, to exchange stories, once audience is built for their stories.</li>
+<li>Provide overall template evaluating how a district is doing (technology, costs,performance, training, bang for the buck, competence)</li>
+<li>Build reporting infrastructure nation-wide in every district using NBC standard evaluation template:<ul>
+<li>High school newspapers and video reporters (now streaming on Youtube) equipped with NBC templates</li>
+<li>Higher ed (community colleges, colleges, universities) newspapers building data (Jupyter Notebooks) for every voting district</li>
+</ul>
+</li>
+<li>Affiliate, O&amp;O teams holding regional summits to build NBC grassroots coverage<ul>
+<li>Use local coverage of local election machinery and institution to build local history of elections:who did what when.</li>
+<li>Partner with high school and community college faculty to teach course on data journalism, using election data as core assignment material<ul>
+<li>Use NBC local templates as foundations for a sequence of homework assignments in data science classes</li>
+</ul>
+</li>
+<li>Create local NBC annual prize event (Data Journalism Emmy) for student, non-traditional coverage of local elections<ul>
+<li>Use NBC on-air talent to create a three-hour EdX course on how to build election-related, or infrastructure-related podcast and videoblog</li>
+</ul>
+</li>
+<li>Partner with popular technology vehicles: Popular Science, Popular Mechanics, hundreds of websites and podcasts, to do the local investigatory work.</li>
+<li>Create NBC Investigatory Data ethical standards, publish them.  Similar to Fact Checking guidelines, but for technical subjects of infrastructure.</li>
+<li>Use the hundreds of Ethics in Data courses blossoming on the thousands of campuses now teaching Data Science.</li>
+</ul>
+</li>
+</ul>
+<h3 id="Build-new-NBC-Data-Journalism-for-the-21st-Century-initiative-using-national-journalism-conferences">Build new NBC Data Journalism for the 21st Century initiative using national journalism conferences<a class="anchor-link" href="#Build-new-NBC-Data-Journalism-for-the-21st-Century-initiative-using-national-journalism-conferences"> </a></h3><table>
+<thead><tr>
+<th style="text-align:left">Organization</th>
+<th style="text-align:left">Members</th>
+<th style="text-align:center">Convention Dates</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="http://jea.org/wp/">Journalism Education Association (JEA)</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://jea.org/wp/home/news-events/national-conventions/">JEA/NSPA National High School Journalism</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">21-24 Nov 2019</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://studentpress.org/nspa/">National Scholastic Press Association (NSPA)</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">November 21-24, Marriott, DC</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://mediaimpactfunders.org/events/the-2019-journalism-funders-gathering/">Journalism Funders Conference</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">29-30 October 2019 San Francisco: HenryJ.Kaiser Family Foundation185 Berry Street, Suite 2000San Francisco, CA 94107</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://studentpress.org/acp/events/#ncmc">National College Media Convention</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">31 Oct - 3 Nov 2019: Grand Hyatt, DC</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://10times.com/noda-trondheim?utm_source=pastVisitor&amp;utm_medium=email&amp;utm_campaign=2019-11-15_day30&amp;utm_term=event_name_header">Nordic Data Journalism Conference</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">15 Nov 2019</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="http://studentpress.org/acp/events/">ACP/CMBAM National College Journalism Convention</a></td>
+<td style="text-align:left"></td>
+<td style="text-align:center">Feb. 27-29, 2020 · Hyatt Regency · San Francisco</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+
+ 
+
+
+</main>
+
+            </div>
+            <nav class="c-page__nav">
+  
+    
+    <a id="js-page__nav__prev" class="c-page__nav__prev" href="/voteA/journalism/datajournalism.html">
+      〈 <span class="u-margin-right-tiny"></span> Finding data and data analysts in ...
+    </a>
+  
+
+  
+    
+    <a id="js-page__nav__next" class="c-page__nav__next" href="/voteA/journalism/template1.html">
+      Building a data template for each ... <span class="u-margin-right-tiny"></span> 〉
+    </a>
+  
+</nav>
+
+            <footer>
+  <p class="footer">This page was created by <a href="https://github.com/jupyter/jupyter-book/graphs/contributors">The Jupyter Book Community</a></p>
+</footer>
+
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
