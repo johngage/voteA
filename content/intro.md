@@ -18,7 +18,7 @@ Sections of this site outline how to use data science to analyze and report on t
 | --- | :---  |:---:
 | Boundaries|What is the district or jurisdiction?| ~9,000 in US; 520,000 elected officials
 | Registration|Who can vote?|Voter Eligible Population.2018: 235.7M; Registered.2018: 211M
-|Voting   | How are votes cast?  |
+|Voting   | How are votes cast?  | 50% by mail; 50% in 200,000 polling places run by [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major voting jurisdictions
 |Counting |How are votes counted? |[Voted.2018.EAC](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf): 120.3M or 51% of Voter Eligible Population;[Voted.2018.USCensus](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html): 122.3M ;[By Generation graphic](https://pewrsr.ch/2WwQE3W)
 | Deciding and Reporting Winners| How are winners of the vote decided? |
 |Audits, Recounts, Risk Limiting Audits| How are those decisions verified?
