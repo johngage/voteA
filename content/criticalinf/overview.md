@@ -25,7 +25,7 @@ Journalism's responsibility is not to fix our critical infrastructure, but to bu
 
 ### Start by building a new way to cover America's critical voting infrastructure for the 2020 election.
 
-These systems are public, deployed now, managed by over 9,000 jurisdictions and by over 50,000 public employees charged with maintaining the integrity of the 2020 elections. But, these systems are under attack, today.
+These systems are public, deployed now, managed by over 10,000 jurisdictions and by over 50,000 public employees charged with maintaining the integrity of the 2020 elections. But, these systems are under attack, today.
 
 Billions of dollars are being spent, today, to improve the integrity of our election systems. The majority of jurisdictions have run out of time, however, to implement upgrades or hardened systems. However, introduction of risk-limiting audits in a growing number of jurisdictions may allow our 2020 election systems to test and establish the integrity of our elections. News organizations must find a way to incorporate these new capabilities in their coverage.
 

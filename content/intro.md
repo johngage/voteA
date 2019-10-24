@@ -1,5 +1,5 @@
 
-#### Current draft: 18Oct2019.1156pst
+#### Current draft: updated 24Oct2019.1156pst
 # Journalism and Vote2020
 
 Threats against the integrity of our elections challenge American democracy.
@@ -16,7 +16,7 @@ Sections of this site outline how to use data science to analyze and report on t
 
 |Element | Description |Recent Values
 | --- | :---  |:---:
-| Boundaries|What is the district or jurisdiction?| ~9,000 in US; 520,000 elected officials
+| Boundaries|What is the district or jurisdiction?| ~[10,000 voting jurisdictions in US](https://www.electiondataservices.com/wp-content/uploads/2013/05/BaseElectionAdmin.ppt) 50 states; 3,140 counties; 6,932 townships; 520,000 elected officials
 | Registration|Who can vote?|Voter Eligible Population.2018: 235.7M; Registered.2018: 211M
 |Voting   | How are votes cast?  | 50% by mail; 50% in 200,000 polling places run by [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major voting jurisdictions
 |Counting |How are votes counted? |[Voted.2018.EAC](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf): 120.3M or 51% of Voter Eligible Population;[Voted.2018.USCensus](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html): 122.3M ;[By Generation graphic](https://pewrsr.ch/2WwQE3W)
@@ -24,7 +24,7 @@ Sections of this site outline how to use data science to analyze and report on t
 |Audits, Recounts, Risk Limiting Audits| How are those decisions verified?
 
 
-On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 9,000 voting jurisdictions that count votes.
+On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 10,000 voting jurisdictions. 340 jurisdictions contain over 60% of registered voters. 7,600 jurisdictions have fewer than 10,000 registered voters, and contain 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
 
 This is a proposal to build a parallel data system, joining thousands of students and faculty across America in the national data science curriculum into partnership with news organizations,
 
@@ -56,3 +56,5 @@ This site outlines a workable approach to join these communities in a common eff
 
 
 ## Trials and demonstrations
+
+[^1]: https://www.electiondataservices.com/research-services/

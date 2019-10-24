@@ -17,3 +17,12 @@ Bridgett A. King
 Administering Elections
 How American Elections Work
 Authors: Hale, Kathleen, Montjoy, Robert, Brown, Mitchell
+
+
+The Public Mapping Project: How Public Participation can revolutionize redistricting. Michael P. McDonald, Micha Altman | Cornell University Press |2018
+
+ Brennan Center’s A Citizen’s Guide to Redistricting
+
+ National Conference of State Legislatures’ Redistricting Law
+
+ 

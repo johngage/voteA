@@ -2,7 +2,7 @@
 
 **[520,000 elected officials ](https://images.dailykos.com/images/134822/large/Elected_officials.png?1426881549)** in the US know how they were elected, who ran the elections, and how well the election was conducted. Millions of defeated candidates also have observations about their local elections.
 
-**600,000 poll workers, and tens of thousands of civil servants** working in America's 9,000 jurisdictions have observations.
+**600,000 poll workers, and tens of thousands of civil servants** working in America's 10,000 jurisdictions have observations.
 
 **Tens of thousands of students of data science**, now on almost every higher education campus, and rapidly expanding in high schools and online courses.
 

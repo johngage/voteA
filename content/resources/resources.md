@@ -43,10 +43,14 @@
   - DISA
 
 ## Conferences
-  - [Intelligence and National Security Alliance (INSA) Summit]()
-  - [DEFCON]()
-  - [Black Hat Briefings](https://en.wikipedia.org/wiki/Black_Hat_Briefings)
-  - [AvengerCon III 2018](https://www.army.mil/article/214354/avengercon_iii_the_hacker_training_event_for_todays_cyber_warrior)
+Conference | Sponsor | Date | Attendees
+:--- | :--- | :--- | :----
+Election Sciences, Reform, & Administration Conference (ESRA)|||
+ [Intelligence and National Security Alliance (INSA) Summit]()|||
+  [DEFCON]()|||
+   [Black Hat Briefings](https://en.wikipedia.org/wiki/Black_Hat_Briefings)|||
+   [AvengerCon III 2018](https://www.army.mil/article/214354/avengercon_iii_the_hacker_training_event_for_todays_cyber_warrior)|||
+
     - A Company (the Avengers), 781st Military Intelligence (MI) Battalion (Cyber)
     - Capt. Skyler Onken, commander of A Co., 781st MI Battalion
     - Capt. Stephen Rogacki
