@@ -15,7 +15,17 @@ American National Election Study
  https://www.pewresearch.org/methods/2018/02/15/acknowledgements/
 
 
+- Entities gathering voter registration data from State and County sources
+  - HAVA directed all states to gather and publish voter registration data; some are free.
 
-Catalist
-TargetSmart
-Data Trust
+Entitity | Number in Voter File
+:--- | :---
+Catalist| 200 M
+TargetSmart| 200M
+Data Trust |200M
+
+
+Movement Cooperative  | 240M
+
+
+Academic access: snapshots of files over time;

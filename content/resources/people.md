@@ -17,10 +17,10 @@ Ron Rivest | MIT | |
 David Wagner| UC Berkeley Goldman School | |
 Henry Brady| UC Berkeley | |
 Andy Appel| Princeton | |
- Ed Felten| Princeton | |
- Alex Halderman| Michigan | |
- Avi Rubin| Johns Hopkins | |
- Bruce Schneir| Harvard Kennedy School | |
+Ed Felten| Princeton | |
+Alex Halderman| Michigan | |
+Avi Rubin| Johns Hopkins | |
+Bruce Schneir| Harvard Kennedy School | |
 
 ### Independent Action
  |Name | Organization | Contact | Expertise
@@ -33,3 +33,6 @@ Andy Appel| Princeton | |
 - Marc Andreesen
 - Satya Nadella
 - John Doerr
+
+
+Ryan Inos: Harvard;  mechanical turk for survey research.

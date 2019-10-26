@@ -25,3 +25,6 @@ Earlier discussion by Phil Stark, [using web pages](https://www.stat.berkeley.ed
 
 
 [Tina Barton, City Clerk, Rochester Hills, Michigan](https://medium.com/@susangreenhalgh/its-time-to-audit-our-elections-54be65131d7d)
+
+
+Electronic Voting: Third International Joint Conference, E-Vote-ID 2018, Bregenz, Austria, October 2-5, 2018, Proceedings

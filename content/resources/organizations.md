@@ -5,8 +5,8 @@ Organization | Full Name | Membership | Contact
 [Verified Voting](https://www.verifiedvoting.org/) | | |
 [OSET]() | | |
 [NYU Brennan Center For Justice ]() | | |
-|[Democracy Works](https://www.democracy.works/)   |   |   |
-|  [Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
+[Democracy Works](https://www.democracy.works/)   |   |   |
+[Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
 
 
 
