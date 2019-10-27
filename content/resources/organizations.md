@@ -57,10 +57,10 @@ MIT Election Lab  |   |   |  https://electionlab.mit.edu/
 - [AvengerCon IV](https://www.facebook.com/780MIBDE/posts/mark-your-calendars-avengercon-iv-is-october-17-18-avengercon-is-a-free-hacker-e/2242803835830990/)
   - [AC IV](http://www.govevents.com/details/34293/avengercon-iv/)
 -  [Election Sciences, Reform, & Administration Conference (ESRA)(https://esra.wisc.edu/)
-    -
+
 ## Recent discussions
 
-## Weird outlier technology companies
+## Outlier technology companies
 - Anduril
 - Palantir
 - Cambridge Analytica

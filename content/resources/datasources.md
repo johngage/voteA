@@ -10,9 +10,9 @@ American Trends Panel (ATP)
 American National Election Study
 
 
- [Electronic Registration Information Center(ERIC)](http://www.ericstates.org/)
+[Electronic Registration Information Center(ERIC)](http://www.ericstates.org/)
 
- https://www.pewresearch.org/methods/2018/02/15/acknowledgements/
+https://www.pewresearch.org/methods/2018/02/15/acknowledgements/
 
 
 - Entities gathering voter registration data from State and County sources

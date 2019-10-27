@@ -5,16 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-  <title>Analysis Software</title>
-  <meta name="description" content="Analysis software ESRI Arc Info, MaptitudeCityGate | AutoboundDistrictBuilder | Azavea, Cornell |Dave’s Redistricting App | David Bradlee ">
+  <title>Initial Jupyter Notebook</title>
+  <meta name="description" content="Jupyter Notebooks for Election Analysis 200,000 polling places: location; jurisdiction; equipment; vendor;  staff; ballot boxes; ballots; scan local;pollingp...">
 
-  <link rel="canonical" href="https://johngage.github.io/voteA/resources/analysissw.html">
+  <link rel="canonical" href="https://johngage.github.io/voteA/datascience/electionanalysis.html">
   <link rel="alternate" type="application/rss+xml" title="Continuous Coverage of Critical Infrastructure" href="https://johngage.github.io/voteA/feed.xml">
 
-  <meta property="og:url"         content="https://johngage.github.io/voteA/resources/analysissw.html" />
+  <meta property="og:url"         content="https://johngage.github.io/voteA/datascience/electionanalysis.html" />
 <meta property="og:type"        content="article" />
-<meta property="og:title"       content="Analysis Software" />
-<meta property="og:description" content="Analysis software ESRI Arc Info, MaptitudeCityGate | AutoboundDistrictBuilder | Azavea, Cornell |Dave’s Redistricting App | David Bradlee " />
+<meta property="og:title"       content="Initial Jupyter Notebook" />
+<meta property="og:description" content="Jupyter Notebooks for Election Analysis 200,000 polling places: location; jurisdiction; equipment; vendor;  staff; ballot boxes; ballots; scan local;pollingp..." />
 <meta property="og:image"       content="https://johngage.github.io/voteA/images/logo/logo.png" />
 
 <meta name="twitter:card" content="summary">
@@ -24,11 +24,11 @@
   {
   "@context": "http://schema.org",
   "@type": "NewsArticle",
-  "mainEntityOfPage": "https://johngage.github.io/voteA/resources/analysissw.html",
-  "headline": "Analysis Software",
+  "mainEntityOfPage": "https://johngage.github.io/voteA/datascience/electionanalysis.html",
+  "headline": "Initial Jupyter Notebook",
   "datePublished": "2019-10-27T11:29:19-07:00",
   "dateModified": "2019-10-27T11:29:19-07:00",
-  "description": "Analysis software ESRI Arc Info, MaptitudeCityGate | AutoboundDistrictBuilder | Azavea, Cornell |Dave’s Redistricting App | David Bradlee ",
+  "description": "Jupyter Notebooks for Election Analysis 200,000 polling places: location; jurisdiction; equipment; vendor;  staff; ballot boxes; ballots; scan local;pollingp...",
   "author": {
     "@type": "Person",
     "name": "John Gage"
@@ -847,7 +847,7 @@ initFunction(initPrint)
               
 
               <li class="c-sidebar__section">
-                <a class="c-sidebar__entry c-sidebar__entry--active"
+                <a class="c-sidebar__entry "
                   href="/voteA/resources/analysissw.html"
                 >
                   
@@ -1056,7 +1056,7 @@ initFunction(initPrint)
       
       
       <li class="c-sidebar__chapter">
-        <a class="c-sidebar__entry "
+        <a class="c-sidebar__entry c-sidebar__entry--active"
           href="/voteA/datascience/electionanalysis.html"
         >
           
@@ -1211,7 +1211,7 @@ initFunction(initPrint)
 <div class="download-buttons-dropdown">
     <button id="dropdown-button-trigger" class="interact-button"><i class="fa fa-download"></i></button>
     <div class="download-buttons">
-        <a href="/voteA/content/resources/analysissw.md" download>
+        <a href="/voteA/content/datascience/electionanalysis.ipynb" download>
         <button id="interact-button-download" class="interact-button">ORIG</button>
         </a>
         
@@ -1245,13 +1245,270 @@ initFunction(initPrint)
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Analysis-software">Analysis software<a class="anchor-link" href="#Analysis-software"> </a></h1><p>ESRI Arc Info, Maptitude
-CityGate | Autobound</p>
-<p>DistrictBuilder | Azavea, Cornell |</p>
-<p>Dave’s Redistricting App | David Bradlee</p>
+<h2 id="Jupyter-Notebooks-for-Election-Analysis">Jupyter Notebooks for Election Analysis<a class="anchor-link" href="#Jupyter-Notebooks-for-Election-Analysis"> </a></h2>
+</div>
+</div>
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>200,000 polling places: location; jurisdiction; equipment; vendor;  staff; ballot boxes; ballots; scan local;</p>
 
 </div>
 </div>
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>pollingplace = get.csv (location of data about polling place: EAC or VV or ElectionDataSources)</p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>sort by size; group by vendor; group by scan local;</p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">geopandas</span> <span class="k">as</span> <span class="nn">gpd</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="n">map_df</span> <span class="o">=</span> <span class="n">gpd</span><span class="o">.</span><span class="n">read_file</span><span class="p">(</span><span class="s2">&quot;uk_generalized_2015.shp&quot;</span><span class="p">)</span>
+<span class="c1"># map_df is a Pandas dataframe</span>
+<span class="n">f</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">6</span><span class="p">,</span> <span class="mi">6</span><span class="p">))</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">map_df</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">)</span>
+<span class="n">ax</span><span class="o">.</span><span class="n">set_axis_off</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="jb_output_wrapper }}">
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">ModuleNotFoundError</span>                       Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-3-b3ab0c9b61a3&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span><span class="ansi-green-fg">import</span> geopandas <span class="ansi-green-fg">as</span> gpd
+<span class="ansi-green-intense-fg ansi-bold">      2</span> <span class="ansi-green-fg">import</span> matplotlib<span class="ansi-blue-fg">.</span>pyplot <span class="ansi-green-fg">as</span> plt
+<span class="ansi-green-intense-fg ansi-bold">      3</span> map_df <span class="ansi-blue-fg">=</span> gpd<span class="ansi-blue-fg">.</span>read_file<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">&#34;uk_generalized_2015.shp&#34;</span><span class="ansi-blue-fg">)</span>
+<span class="ansi-green-intense-fg ansi-bold">      4</span> <span class="ansi-red-fg"># map_df is a Pandas dataframe</span>
+<span class="ansi-green-intense-fg ansi-bold">      5</span> f<span class="ansi-blue-fg">,</span> ax <span class="ansi-blue-fg">=</span> plt<span class="ansi-blue-fg">.</span>subplots<span class="ansi-blue-fg">(</span><span class="ansi-cyan-fg">1</span><span class="ansi-blue-fg">,</span> figsize<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">(</span><span class="ansi-cyan-fg">6</span><span class="ansi-blue-fg">,</span> <span class="ansi-cyan-fg">6</span><span class="ansi-blue-fg">)</span><span class="ansi-blue-fg">)</span>
+
+<span class="ansi-red-fg">ModuleNotFoundError</span>: No module named &#39;geopandas&#39;</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sys</span><span class="o">.</span><span class="n">path</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="jb_output_wrapper }}">
+<div class="output_area">
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>[&#39;&#39;,
+ &#39;/Users/johngage/Repos/BookJupyter/voteA/content/datascience&#39;,
+ &#39;/usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python37.zip&#39;,
+ &#39;/usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7&#39;,
+ &#39;/usr/local/Cellar/python/3.7.4/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload&#39;,
+ &#39;/usr/local/lib/python3.7/site-packages&#39;,
+ &#39;/usr/local/lib/python3.7/site-packages/IPython/extensions&#39;,
+ &#39;/Users/johngage/.ipython&#39;]</pre>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">sys</span><span class="o">.</span><span class="n">executable</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="jb_output_wrapper }}">
+<div class="output_area">
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>&#39;/usr/local/opt/python/bin/python3.7&#39;</pre>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">geopandas</span> <span class="k">as</span> <span class="nn">gpd</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="jb_output_wrapper }}">
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">ModuleNotFoundError</span>                       Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-9-a62d01c1d62e&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span><span class="ansi-green-fg">import</span> geopandas <span class="ansi-green-fg">as</span> gpd
+
+<span class="ansi-red-fg">ModuleNotFoundError</span>: No module named &#39;geopandas&#39;</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Fibonacci numbers module</span>
+
+<span class="k">def</span> <span class="nf">fib</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>    <span class="c1"># write Fibonacci series up to n</span>
+    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span>
+    <span class="k">while</span> <span class="n">a</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">end</span><span class="o">=</span><span class="s1">&#39; &#39;</span><span class="p">)</span>
+        <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span>
+    <span class="nb">print</span><span class="p">()</span>
+
+<span class="k">def</span> <span class="nf">fib2</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>   <span class="c1"># return Fibonacci series up to n</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span>
+    <span class="k">while</span> <span class="n">a</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">:</span>
+        <span class="n">result</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
+        <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span>
+    <span class="k">return</span> <span class="n">result</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="jb_cell">
+
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">geopandas</span> <span class="k">import</span> <span class="o">*</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="jb_output_wrapper }}">
+<div class="output_area">
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">ModuleNotFoundError</span>                       Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-11-998e871db758&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span><span class="ansi-green-fg">from</span> geopandas <span class="ansi-green-fg">import</span> <span class="ansi-blue-fg">*</span>
+
+<span class="ansi-red-fg">ModuleNotFoundError</span>: No module named &#39;geopandas&#39;</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+
 </div>
 </div>
 
@@ -1264,15 +1521,15 @@ CityGate | Autobound</p>
             <nav class="c-page__nav">
   
     
-    <a id="js-page__nav__prev" class="c-page__nav__prev" href="/voteA/resources/resources.html">
-      〈 <span class="u-margin-right-tiny"></span> Resources-old
+    <a id="js-page__nav__prev" class="c-page__nav__prev" href="/voteA/datascience/jupyternotebooklist.html">
+      〈 <span class="u-margin-right-tiny"></span> JupyterNotebook on Voting
     </a>
   
 
   
     
-    <a id="js-page__nav__next" class="c-page__nav__next" href="/voteA/resources/bibliography.html">
-      Bibliography <span class="u-margin-right-tiny"></span> 〉
+    <a id="js-page__nav__next" class="c-page__nav__next" href="/voteA/features/features.html">
+      Creating a book <span class="u-margin-right-tiny"></span> 〉
     </a>
   
 </nav>
