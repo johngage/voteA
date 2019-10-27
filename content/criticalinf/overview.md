@@ -5,17 +5,16 @@
 
 This site outlines how to develop  **Continuous Data Journalism**,  a secure, real-time, continuous flow of critical infrastructure data to news and journalism organizations, enabling a new kind of responsible public oversight, without enabling new attacks or exploits of technical weaknesses.
 
-<details style="color:blue;"> <summary > Click for details  </summary>
+
 
 This site considers a small, but vital area of our national infrastructure: **the integrity of our voting systems**.  As we develop forms of journalism to better cover this subset of our infrastructure, we hope to build tools for better coverage of all infrastructure.
-
-
 
 Journalistic coverage of infrastructure faces a fundamental challenge: **by describing vulnerabilities, do we enable attacks, or do we enable those fighting against attacks?**
 
 This goes to the core of journalistic ethics: how will a story affect those it reports about?  There is no simple answer, there is no way to guarantee lack of harm, there is no way to guarantee accuracy and justice.  There is only the belief that facts enable better decisions, open decisions are more often right than hidden decisions, good democratic decisions require an informed public and an informed government, decisions are measured by results, and results are openly reported.
+
+
 <hr>
-</details>
 
 
 This site argues that we can only build resistance to attacks if we know our vulnerabilities.
@@ -32,7 +31,7 @@ Billions of dollars are being spent, today, to improve the integrity of our elec
 And that coverage can develop new sources and methods to broaden our understanding.
 
 ### Use what we develop to report on elections to improve coverage of the rest of America's infrastructure
-<details style="color:blue;"> <summary > Click for details  </summary>
+
 Today's news stories of cyber attacks, power and water system malfunctions, security breaches of massive data bases containing personal information, misuse of massive surveillance systems, and attacks on the integrity of the machinery of our voting systems share common characteristics:
 
 - Episodic
@@ -43,4 +42,3 @@ Today's news stories of cyber attacks, power and water system malfunctions, secu
 News organizations have developed specialized, highly technical beat coverage of cybersecurity issues, with sub-domains covering personal data privacy breaches, national security breaches, social network manipulations, algorithm-based decision systems, and the fragile and brittle nature of our networks.
 
 We can build on this investment by massively broadening local coverage.
-</details>
