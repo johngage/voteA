@@ -2,9 +2,7 @@
 #### Current draft: updated 24Oct2019.1156pst
 # Journalism and Vote2020
 
-Threats against the integrity of our elections challenge American democracy.
-
-Today's partisan environment could destroy America's trust in our election systems in 2020.
+Threats against the integrity of our elections challenge American democracy and confidence in our election system.
 
 Can we verify the integrity of our elections in a way that most Americans would trust?
 
@@ -28,19 +26,14 @@ On election day, news organizations now rely on voting counts from [6,459](https
 
 All together, there are over 10,000 voting jurisdictions. Over 60% of registered voters are in 340 jurisdictions. 7,600 jurisdictions have fewer than 10,000 registered voters, and together have only 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
 
-This is a proposal to build a parallel data system, joining thousands of students and faculty across America in the national data science curriculum into partnership with news organizations,
-
-
 Many efforts to detect and prevent attacks on our voting systems are underway, at a national, state, and local level.
 The [US Election Assistance Commission (EAC)](https://www.eac.gov/payments-and-grants/hava-funds-state-chart-view/) has distributed almost $4 billion dollars to hundreds of jurisdictions; the Department of Homeland Security monitors and mentors hundreds of jurisdiction on hardening their systems; the National Security Agency, and the US CyberCommand are running training exercises to defend our election systems from threats of interference.
 
-But American news organizations have a unique, independent capability and a special journalistic responsibility to publically report on the integrity of elections, whether government-run or privately-run.  All news organizations are designing their systems now to report on the 2020 election.
+But American news organizations have a unique, independent capability and a special journalistic responsibility to publically report on the integrity of elections.  News organizations are designing their systems now to report on the 2020 election. Consortia exist:
 
 Here is the important convergence: **As American news organizations build their capabilities to report on the election, they can build, at the same time, elements of what America needs to _protect_ its election systems--a new, vast network of local sources, local data, and local analysis able to detect anomalies and irregularities.**
 
-As election systems have come to rely almost entirely  on information technologies, new capabilities are inextricably joined with new vulnerabilities. Estimates range into the billions of dollars to update or replace voting systems in America's ten thousand voting jurisdictions to reach desirable levels of security.  Primary elections in 2020, and the general election in 2020 will run on antiquated and vulnerable equipment.
-
-Time and money have run out. There is no practical way to change the voting systems for the majority of these jurisdictions.
+Time and money have run out. There is no practical way to change the voting systems for the majority of jurisdictions. Primary and general elections in 2020 will run on antiquated and vulnerable equipment.
 
 But we can build reporting systems, **news** systems, **data analysis** systems to significantly increase our trust in election results. These systems will require new initiatives by American news organizations, joined with new capabilities of data acquisition and analysis developed in the rapidly expanding world of data science. The expertise to do this lies in American companies, American universities, and American institutions devoted to national security, joined with those charged with actually carrying out American elections.
 

@@ -21,8 +21,4 @@ Today, **thousands of data science faculty members** are hunting for relevant da
 How many students become potential partners? **Hundreds of thousands of students** are taking the new Data Science courses today.
 
 
-Today's partisan environment, amplified by unethical journalism, may destroy our trust in our election results. Can we build a common understanding of how to verify the integrity of our democracy?
-
-Can post-election audits of the results of an election establish to the satisfaction of all that the results were fairly decided, and reflect the actual vote?
-
-And how do we build a consensus on the integrity, the good faith and honesty of the millions of Americans who will participate in carrying out the processes and procedures of the election?  Our registrars, our election boards, our technical staff, our volunteers in fire stations and post offices and schools across the country?
+And how do we build a consensus on the integrity, the good faith and honesty of the millions of Americans who participate in carrying out the processes and procedures of the election?  Our registrars, our election boards, our technical staff, our volunteers in fire stations and post offices and schools across the country?

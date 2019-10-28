@@ -1,4 +1,4 @@
-# Interview templates
+# Interview templates to build Jupyter Notebooks
 
 See the list of questions a reporter should ask of those running each jurisdiction
 

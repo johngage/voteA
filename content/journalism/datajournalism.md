@@ -1,15 +1,6 @@
 # Data Journalism for Elections
 
-Our overall goal is to build a _DataCorps_ of 100,000 skilled practicioners, at least two in each voting jurisdiction in the country, equipped with:
- - broad datasets covering every aspect of the local jurisdiction.
- - a diverse set of analytic tools to examine local data
- - personal acquaintance with local jurisdiction public officials, local laws and regulations, local political history and relationships, and local election machinery
-- acquaintance with all police, security and intelligence entities covering local infrastructure, at all levels
-
- - personal acquaintance with all journalistic entities covering local elections
- - some certification of competence, integrity, and experience, from a local educational institution or a national group
- - links to all other _DataCorps_ analysts in their county, region, or state, to enable cross-jurisdictional analysis and comparison
-
+{fill in specifics, how voting differs from covering other critical infrastructure}
 ##Specific steps to build the curriculum, the data sets, the tools, and the relationships for _DataCorps_
 
 ###Curriculum
