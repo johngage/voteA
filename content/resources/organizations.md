@@ -1,4 +1,4 @@
-#  Organiztional Resources
+#  Organizational Resources
 
 Organization | Full Name | Focus | Contact
 :--- | :---: | :--- | :---

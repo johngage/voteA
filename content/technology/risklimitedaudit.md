@@ -28,3 +28,5 @@ Earlier discussion by Phil Stark, [using web pages](https://www.stat.berkeley.ed
 
 
 Electronic Voting: Third International Joint Conference, E-Vote-ID 2018, Bregenz, Austria, October 2-5, 2018, Proceedings
+
+[Rhode Island report on RLA Pilot Implementation](https://www.verifiedvoting.org/wp-content/uploads/2019/09/RI-Report.pdf)

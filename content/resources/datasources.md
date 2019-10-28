@@ -14,6 +14,7 @@ American National Election Study
 
 https://www.pewresearch.org/methods/2018/02/15/acknowledgements/
 
+- State Data Sources
 
 - Entities gathering voter registration data from State and County sources
   - HAVA directed all states to gather and publish voter registration data; some are free.
@@ -29,3 +30,10 @@ Movement Cooperative  | 240M
 
 
 Academic access: snapshots of files over time;
+
+- Local Government data:
+- Other data files held by jurisdictions:
+
+GIS files held by all jurisdictions: **Street files**, with amendments to include cul-de-sac streets
+
+Tax Assessor files: parcel maps, boundary files

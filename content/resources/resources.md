@@ -1,4 +1,4 @@
-# Resources
+# Resources outline->newer version
 
 [DARPA](https://www.darpa.mil/about-us/about-darpa)
 
@@ -17,7 +17,7 @@
 
 - Anne Neuberger, CyberCommand
 - Lawrence Norden, Brennan Center
-- Philip Starck, UC Berkeley
+- Philip Stark, UC Berkeley
 
 ## Money
 - Marc Andreesen
