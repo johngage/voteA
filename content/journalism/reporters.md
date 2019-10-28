@@ -13,3 +13,5 @@ Reporter | Organization | Story
 [Jordan Wilkie](https://carolinapublicpress.org/author/jordan-wilkie/)   | Carolina Public Press  |[NC Board of Elections: 18Oct19](https://carolinapublicpress.org/29421/nc-board-of-elections-campaigns-to-earn-voter-trust-amid-changes/)
 [Karolina Buczek ](https://www.lex18.com/karolina-buczek)  | [WLEX-18-NBC: Louisville, KY]()  | [Kentucky State election security: 16Oct19](https://www.lex18.com/news/experts-weigh-in-on-kentucky-state-election-security)
 Nicole Perlroth  | New York Times  |
+[Timothy Pratt](https://www.theatlantic.com/author/timothy-pratt/)| The Atlantic |
+[Undark](https://www.theatlantic.com/author/undark/)  | The Atlantic  |

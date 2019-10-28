@@ -11,7 +11,7 @@
 - Producers
 - Reporters
 - Analytics and Statistics Department: Existing Jupyter Notebooks; present and planned map and interactive displays for anchors, guests.
-- Web site engineering: design of data visualizations, maps: move to Jupyter Notebooks, using new J3-like capabilities.
+- Web site engineering: design of data visualizations, maps: move to Jupyter Notebooks, using new D3-like visualization capabilities now written in Python.
 
 ### Assess time investment in working with other organizations
 - Discuss alliance with NYT Future Journalism group
@@ -27,7 +27,7 @@
 
 Develop local reporting and analysis in every jurisdiction, partnering with affilites and O&O's, and with local educational institutions teaching data science.
 
-- 9,000 voting jurisdictions;
+- 10,000 voting jurisdictions;
 - [37,000 special districts: water, power, irrigation, storm](https://en.wikipedia.org/wiki/Special_district_(United_States) ;
 -  [20,000 school districts, public and private](https://en.wikipedia.org/wiki/School_district);
 -  [20,000 municipalities](http://www.citymayors.com/mayors/us-mayors.html)
