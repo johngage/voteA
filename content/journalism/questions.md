@@ -45,8 +45,8 @@ Core question | Basic Answer| Figure of Merit | Example
 :---: | :---: | :---: | :---:
 Do you have post-election audit?  |   |   |**[PostAudit.2018: 80% of states](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf)**
 How does it work?  |   |   |
-Do you use Risk Limiting Audits?  |   |   |
-Do you know what they are?  |   |   |
+Do you use Risk Limiting Audits?  |   | Four states now implement RLA: Colorado, Rhode Island, Nevada, Virginia; many districts are now piloting in other states  |
+Do you know what they are?  |   |  After National Academy Study recommending RLA for all jurisdicions, US House Bill HR1 mandating RLA's in all states, you should |
 
 - Behavioral modeling
 - Social media targeting
