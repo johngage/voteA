@@ -13,11 +13,11 @@ Organization | Full Name | Membership | Contact
 Organization | Full Name | Membership | Contact
 :--- | :---: | :--- | :---
 NASED |National Association of State Election Directors   |   Professional association of state chief election officials in the states |
-Election Center   |   | Training and certification of election administrators and other election professionals  |
+Election Center   | National Association of Election Officials  | Training and certification of election administrators and other election professionals  |
 EAC   | Election Assistance Commission   |   |
-Standards Board   |   | 110 members  |
-Board of Advisors   |   |  35 members |
-TGDC   | Technical Guidelines Development Committee   |15 members   |
+EAC Standards Board   |   | 110 members  |
+EAC Board of Advisors   |   |  35 members |
+EAC TGDC   | Technical Guidelines Development Committee   |15 members   |
 DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masterson@hq.dhs.gov
 [DARPA](https://www.darpa.mil/about-us/about-darpa)  |   |   |
 [NIST](https://www.nist.gov/)|   |   |

@@ -15,3 +15,16 @@ Reporter | Organization | Story
 Nicole Perlroth  | New York Times  |
 [Timothy Pratt](https://www.theatlantic.com/author/timothy-pratt/)| The Atlantic |
 [Undark](https://www.theatlantic.com/author/undark/)  | The Atlantic  |
+
+Election Directors |Title| Organization | Contractors
+:--- | :--- | :--- | :---
+Dan Merkle| Executive Director of Elections |  ABC News|Astucemedia, graphics and creative consultants; Vizrt, graphics engines and graphics tracking; and Mo-Sys, the camera-tracking system
+ABC News  Tamar Gargle and   |Creative Director   |ABC
+Hal Aronow-Theil   | Director of Graphics Operations   | ABC  |   |
+  | CBS  |   |
+  | CNN  |   |
+Dr. John Lapinski: UPenn  | Director of Elections Unit  | NBC  |[PSCI 207 Applied Data Science:](https://www.stephenpettigrew.com/files/syllabus/psci207.pdf) Data Science and American Elections
+  | FOX  |   |
+  |  Sinclair |   |
+  | Apple  |   |
+  | Facebook  |   |

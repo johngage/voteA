@@ -1,6 +1,6 @@
 #Data Journalism for Critical Infrastructure
 
-Our overall goal is to build a _DataCorps_ of 100,000 skilled practicioners, at least two in each relevant water district, sub-grid or grid district, fire district, police district or jurisdiction in the country, equipped with:
+Our overall goal is to build a _DataCorps_ of 100,000 skilled practitioners, at least two in each relevant water district, sub-grid or grid district, fire district, police district or jurisdiction in the country, equipped with:
  - broad datasets covering every aspect of the local jurisdiction.
  - a diverse set of analytic tools to examine local data
  - personal acquaintance with local jurisdiction public officials, local laws and regulations, local political history and relationships, and local election machinery
