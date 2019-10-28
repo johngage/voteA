@@ -7,7 +7,7 @@ This site outlines how to develop  **Continuous Data Journalism**,  a secure, re
 
 
 
-This site considers a small, but vital area of our national infrastructure: **the integrity of our voting systems**.  As we develop forms of journalism to better cover this subset of our infrastructure, we hope to build tools for better coverage of all infrastructure.
+This site considers a subset of our critical national infrastructure: **the integrity of our voting systems**.  As we develop forms of journalism to cover this small subset of our infrastructure, we hope to build nation-wide trust in new local coverage of all infrastructure, building new tools, new shared analyis, and new local cooperation and trust.
 
 Journalistic coverage of infrastructure faces a fundamental challenge: **by describing vulnerabilities, do we enable attacks, or do we enable those fighting against attacks?**
 
@@ -38,7 +38,15 @@ Today's news stories of cyber attacks, power and water system malfunctions, secu
 - Fragmentary
 - Uneven in technical understanding
 - Unrelated to each other
+- Developed by reporters covering seemingly unrelated beats, or communities.
+  - Local police
+  - Local political structure
+  - Local administrative groups: County administrator, County Registrar of Voting, Assessor, County Attorney, Public Works
+  - State administrative groups: Secretary of State, Secretary of Natural Resources, Secretary of Education, State Police
+  - National administration: DOJ, HHS, DHS, DOE
+  - Companies and contractors providing equipment, services, analysis at a local, county, state, or national level
+  -
 
 News organizations have developed specialized, highly technical beat coverage of cybersecurity issues, with sub-domains covering personal data privacy breaches, national security breaches, social network manipulations, algorithm-based decision systems, and the fragile and brittle nature of our networks.
 
-We can build on this investment by massively broadening local coverage.
+We can build on this investment by massively broadening local coverage. But those operating and securing our infrastructure have deep reservations about open and public coverage of our most critical systems. This is our challenge: building and operating critical systems in an age of insecurity.
