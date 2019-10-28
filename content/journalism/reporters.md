@@ -24,7 +24,9 @@ Hal Aronow-Theil   | Director of Graphics Operations   | ABC  |   |
   | CBS  |   |
   | CNN  |   |
 Dr. John Lapinski: UPenn  | Director of Elections Unit  | NBC  |[PSCI 207 Applied Data Science:](https://www.stephenpettigrew.com/files/syllabus/psci207.pdf) Data Science and American Elections
+Stephen Pettigrew|Senior Analyst on Decision Desk|NBC|
   | FOX  |   |
+|   |   |   |
   |  Sinclair |   |
   | Apple  |   |
   | Facebook  |   |

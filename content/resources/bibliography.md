@@ -1,12 +1,17 @@
 # Readings and Links
 
+Very preliminary: will have much deeper list
+
+[National Academy of Science: Securing the Vote](http://sites.nationalacademies.org/pga/stl/voting/index.htm)
+
+Barbara Simons, [Broken Ballots: Will Your Vote Count?](https://www.amazon.com/Broken-Ballots-Center-Language-Information/dp/1575866366), 2012
 
 The Future of Election Administration
-Mitchell Brown is Professor of Political Science at Auburn University, USA.
+Mitchell Brown | Professor of Political Science at Auburn University, USA.
 
-Kathleen Hale is Professor of Political Science and director of the graduate program in election administration at Auburn University, USA.
+Kathleen Hale | Professor of Political Science and director of the graduate program in election administration at Auburn University, USA.
 
-Bridgett A.  King is Assistant Professor of Political Science and director of the MPA Program at Auburn University, USA.
+Bridgett A.  King | Assistant Professor of Political Science and director of the MPA Program at Auburn University, USA.
 
 The Future of Election Administration:Cases and Conversations
 Mitchell Brown
@@ -24,5 +29,3 @@ The Public Mapping Project: How Public Participation can revolutionize redistric
  Brennan Center’s A Citizen’s Guide to Redistricting
 
  National Conference of State Legislatures’ Redistricting Law
-
- 

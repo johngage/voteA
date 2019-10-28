@@ -24,7 +24,9 @@ Sections of this site outline how to use data science to analyze and report on t
 |Audits, Recounts, Risk Limiting Audits| How are those decisions verified? | In main jurisdictions, with a patchwork of laws and regulations: mandatory recount if margin is closer than some amount, or, mandatory resample of precincts randomly chosen, followed by hand recount of those precincts, or,....many other techniques; Colorado and Rhode Island mandate Risk Limiting Audits, a different, more powerful procedure. [See NCSL](http://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx)
 
 
-On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 10,000 voting jurisdictions. Over 60% of registered voters are in 340 jurisdictions. 7,600 jurisdictions have fewer than 10,000 registered voters, and together have only 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
+On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. Reuters has contracted with Edison Research and the National Election Pool (NEP);the NEP is a consortium formed by ABC, CBS, NBC and CNN. NEP will conduct exit polls at over 900 locations (of 200,000 polling places).
+
+All together, there are over 10,000 voting jurisdictions. Over 60% of registered voters are in 340 jurisdictions. 7,600 jurisdictions have fewer than 10,000 registered voters, and together have only 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
 
 This is a proposal to build a parallel data system, joining thousands of students and faculty across America in the national data science curriculum into partnership with news organizations,
 
