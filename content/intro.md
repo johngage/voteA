@@ -16,12 +16,12 @@ Sections of this site outline how to use data science to analyze and report on t
 
 |Element | Description |Recent Values
 | --- | :---  |:---:
-| Boundaries|What is the district or jurisdiction?| ~[10,000 voting jurisdictions in US](https://www.electiondataservices.com/wp-content/uploads/2013/05/BaseElectionAdmin.ppt) 50 states; 3,140 counties; 6,932 townships; 520,000 elected officials
+| Boundaries|What is the district or jurisdiction?| ~[10,000 voting jurisdictions in US](https://www.electiondataservices.com/wp-content/uploads/2013/05/BaseElectionAdmin.ppt); 50 states; 3,140 counties; 6,932 townships; 520,000 elected officials
 | Registration|Who can vote?|Voter Eligible Population.2018: 235.7M; Registered.2018: 211M
 |Voting   | How are votes cast?  | 50% by mail; 50% in 200,000 polling places run by [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major voting jurisdictions
-|Counting |How are votes counted? |[Voted.2018.EAC](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf): 120.3M or 51% of Voter Eligible Population;[Voted.2018.USCensus](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html): 122.3M ;[By Generation graphic](https://pewrsr.ch/2WwQE3W)
-| Deciding and Reporting Winners| How are winners of the vote decided? |
-|Audits, Recounts, Risk Limiting Audits| How are those decisions verified?
+|Counting |How are votes counted? | In polling places and in main jurisdictions;[Voted.2018.EAC](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf): 120.3M or 51% of Voter Eligible Population;[Voted.2018.USCensus](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html): 122.3M ;[By Generation graphic](https://pewrsr.ch/2WwQE3W)
+| Deciding and Reporting Winners| How are winners of the vote decided? | In main jurisdictions, with complicated rules about who validates the counts, and how;
+|Audits, Recounts, Risk Limiting Audits| How are those decisions verified? | In main jurisdictions, with a patchwork of laws and regulations: mandatory recount if margin is closer than some amount, or, mandatory resample of precincts randomly chosen, followed by hand recount of those precincts, or,....many other techniques; Colorado and Rhode Island mandate Risk Limiting Audits, a different, more powerful procedure 
 
 
 On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 10,000 voting jurisdictions. 340 jurisdictions contain over 60% of registered voters. 7,600 jurisdictions have fewer than 10,000 registered voters, and contain 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
