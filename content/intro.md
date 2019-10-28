@@ -21,7 +21,7 @@ Sections of this site outline how to use data science to analyze and report on t
 |Voting   | How are votes cast?  | 50% by mail; 50% in 200,000 polling places run by [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major voting jurisdictions
 |Counting |How are votes counted? | In polling places and in main jurisdictions;[Voted.2018.EAC](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf): 120.3M or 51% of Voter Eligible Population;[Voted.2018.USCensus](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html): 122.3M ;[By Generation graphic](https://pewrsr.ch/2WwQE3W)
 | Deciding and Reporting Winners| How are winners of the vote decided? | In main jurisdictions, with complicated rules about who validates the counts, and how;
-|Audits, Recounts, Risk Limiting Audits| How are those decisions verified? | In main jurisdictions, with a patchwork of laws and regulations: mandatory recount if margin is closer than some amount, or, mandatory resample of precincts randomly chosen, followed by hand recount of those precincts, or,....many other techniques; Colorado and Rhode Island mandate Risk Limiting Audits, a different, more powerful procedure 
+|Audits, Recounts, Risk Limiting Audits| How are those decisions verified? | In main jurisdictions, with a patchwork of laws and regulations: mandatory recount if margin is closer than some amount, or, mandatory resample of precincts randomly chosen, followed by hand recount of those precincts, or,....many other techniques; Colorado and Rhode Island mandate Risk Limiting Audits, a different, more powerful procedure. [See NCSL](http://www.ncsl.org/research/elections-and-campaigns/post-election-audits635926066.aspx)
 
 
 On election day, news organizations now rely on voting counts from [6,459](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) major jurisdictions, and several thousand subjurisdictions. All together, there are over 10,000 voting jurisdictions. 340 jurisdictions contain over 60% of registered voters. 7,600 jurisdictions have fewer than 10,000 registered voters, and contain 7% of registered voters. Half the counties have less than 16,500 voters. [^1]
@@ -36,25 +36,22 @@ But American news organizations have a unique, independent capability and a spec
 
 Here is the important convergence: **As American news organizations build their capabilities to report on the election, they can build, at the same time, elements of what America needs to _protect_ its election systems--a new, vast network of local sources, local data, and local analysis able to detect anomalies and irregularities.**
 
-As election systems have come to rely almost entirely  on information technologies, new capabilities are inextricably joined with new vulnerabilities. Estimates range into the billions of dollars to update or replace voting systems in America's nine thousand voting jurisdictions to reach desirable levels of security.  Primary elections in 2020, and the general election in 2020 will run on antiquated and vulnerable equipment. Time and money have run out. There is no practical way to change the voting systems for the majority of these jurisdictions.
+As election systems have come to rely almost entirely  on information technologies, new capabilities are inextricably joined with new vulnerabilities. Estimates range into the billions of dollars to update or replace voting systems in America's ten thousand voting jurisdictions to reach desirable levels of security.  Primary elections in 2020, and the general election in 2020 will run on antiquated and vulnerable equipment.
 
-But we can build reporting systems, **news** systems, **data analysis** systems to significantly increase our trust in election results. These systems will require new initiatives by American news organizations, joined with new capabilities of data acquisition and analysis developed in the rapidly expanding world of data science. The expertise to do this lies in American companies, American universities, and American institutions devoted to national security.
+Time and money have run out. There is no practical way to change the voting systems for the majority of these jurisdictions.
 
-This site outlines a workable approach to join these communities in a common effort for America's elections.
+But we can build reporting systems, **news** systems, **data analysis** systems to significantly increase our trust in election results. These systems will require new initiatives by American news organizations, joined with new capabilities of data acquisition and analysis developed in the rapidly expanding world of data science. The expertise to do this lies in American companies, American universities, and American institutions devoted to national security, joined with those charged with actually carrying out American elections.
 
-
-
-## Public media
-- Major US papers
-- Television news
-- Twitter/Facebook/Reddit
-
-
-
-
-## Human incentives
+This site outlines a workable approach to join these communities in a common effort for America's election integrity.
 
 
 ## Trials and demonstrations
+- Colorado
+- Rhode Island
+- Wisconson
+- Virginia
+- Ohio
+- Mexico
+- Michigan
 
 [^1]: https://www.electiondataservices.com/research-services/
