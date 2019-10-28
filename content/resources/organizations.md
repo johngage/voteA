@@ -1,16 +1,16 @@
-# Resources
+#  Organiztional Resources
 
-Organization | Full Name | Membership | Contact
+Organization | Full Name | Focus | Contact
 :--- | :---: | :--- | :---
-[Verified Voting](https://www.verifiedvoting.org/) | | |
-[OSET]() | | |
-[NYU Brennan Center For Justice ]() | | |
+[Verified Voting](https://www.verifiedvoting.org/) | |Secure and verifiable election systems |
+[OSET]() | |Develop open-source software to implement elements of election process |
+[NYU Brennan Center For Justice ]() | |Examine all aspects of elections |
 [Democracy Works](https://www.democracy.works/)   |   |   |
 [Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
 
 
 
-Organization | Full Name | Membership | Contact
+Organization | Full Name | Focus | Contact
 :--- | :---: | :--- | :---
 NASED |National Association of State Election Directors   |   Professional association of state chief election officials in the states |
 Election Center   | National Association of Election Officials  | Training and certification of election administrators and other election professionals  |
@@ -19,9 +19,9 @@ EAC Standards Board   |   | 110 members  |
 EAC Board of Advisors   |   |  35 members |
 EAC TGDC   | Technical Guidelines Development Committee   |15 members   |
 DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masterson@hq.dhs.gov
-[DARPA](https://www.darpa.mil/about-us/about-darpa)  |   |   |
-[NIST](https://www.nist.gov/)|   |   |
-[Cybersecurity Directorate, US CyberCommand]()  |   |   |
+[DARPA](https://www.darpa.mil/about-us/about-darpa)  |   | Develop proveably correct hardware and software; cybersecurity  |
+[NIST](https://www.nist.gov/)|   | Develop technical standards for election security   |
+[Cybersecurity Directorate, US CyberCommand]()  |   |Explore all weaknesses in election systems; develop defensive and offensive capabilities; inventory global systems; identify centers of technical expertise   |
 
 
 ## Books

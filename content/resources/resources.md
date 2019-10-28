@@ -8,7 +8,7 @@
 
 [OSET]()
 
-[Brennan Center, Columbia]()
+[Brennan Center, NYU]()
 
 [Cybersecurity Directorate, US CyberCommand]()
 
