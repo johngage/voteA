@@ -9,7 +9,7 @@ This site outlines how to develop  **Continuous Data Journalism**,  a secure, re
 
 This site considers a subset of our critical national infrastructure: **the integrity of our voting systems**.  As we develop forms of journalism to cover **this small subset** of our infrastructure, we hope these new tools, new ways to share analysis, and new local organizations equipped with data and expertise may build **new local coverage of _all_ infrastructure**. From local knowledge, we hope to develop nation-wide trust in our elections; from local knowledge, we hope to build a more resilient critical infrastructure.
 
-The California fires illustrate our vulnerabilities to natural events, not targeted attacks. Power, water, and information systems for millions of people just stopped working. Critical air pollution forced closure of businesses and schools. Transport stopped. Evacuations overwhelmed cities. Mobile phones stopped working. The sudden loss of Internet infrastructure revealed our dependencies, echoing Estonia's experience under Russian attack.
+The California fires reveal our hidden vulnerabilities; here, to natural events, fires caused by deteriorating power infrastructure. What might happen with targeted attacks? Power, water, and information systems for millions of people just stopped working. Critical air pollution forced closure of businesses and schools. Transport stopped. Evacuations overwhelmed cities. Mobile phones stopped working. The sudden loss of Internet infrastructure revealed our dependencies, echoing Estonia's experience under Russian attack.
 
 Journalistic coverage of infrastructure faces a fundamental challenge: **by describing vulnerabilities, do we enable attacks, or do we enable those fighting against attacks?**
 
