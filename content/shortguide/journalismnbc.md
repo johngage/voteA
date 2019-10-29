@@ -41,6 +41,8 @@ Florida  |   ||
 - Match NBC station locations to critical swing districts, and the students that live there
 
 ## Pages to read
+Page | Summary
+:--- | :---
 [NBC national resources](../journalism/nbcactions.html)
 [Reporter's Questions for voting jurisdiction](../journalism/questions.html)
 [Reporter's Resources: Organizations](../resources/organizations.html)
