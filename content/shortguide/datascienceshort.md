@@ -6,10 +6,11 @@ The condensed version of this site.  Ten minute read.
 
 Page | Summary
 :--- | :---
+[Data Science and Data Journalism](../intro.html) |  Overview of conjunction of news and data science  |
 [Data Science resources](../datascience/jupyternotebooklist.html)|
 [Data Science Questions for voting jurisdiction](../journalism/questions.html)|
 [Data Science Resources: Organizations](../resources/organizations.html)|
-[Data Science Resources: People](../resources.people.html)|
+[Data Science Resources: People](../resources/people.html)|
 [Daily Election News](../journalism/electionnews.html)|
 [Daily Reporters to check](../journalism/reporters.html)
 [Data Journalism](../journalism/datajournalism.html)|

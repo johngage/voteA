@@ -1,15 +1,10 @@
 #Jupyter Notebooks on Elections and Voting
 
+## Data Science and Elections
+[Peter Norvig: Electoral Votes JN](https://github.com/norvig/pytudes/blob/master/ipynb/Electoral%20Votes.ipynb)
+[Peter Norvig: All](http://norvig.com/)
+[Peter Norvig: Elections-FAQ: a template for data exploration](http://norvig.com/election-faq-2012.html)
 
-Peter Norvig
-
-[UC Berkeley Data Science courses]()
-[Jupyter.org](https://jupyter.org/)
-
-UC Berkeley Data Science | Links
-:---- |:----
-DS 8 |
-DS 100|
 
 
 [Yale Data Science](http://ydata123.org/)
@@ -20,8 +15,6 @@ DS 100|
 
 - linking voter characteristics to predictions of turnout
 [Data Science and Political Campaigns](https://www.dropbox.com/s/qtybrsetiep6cca/Wk7-LikelyVoter.pdf?dl=0)
-
-
 
 Joshua Kalla JN | Data Science and Political Campaigns: Spring, 2019
 :--- | :---
@@ -35,3 +28,14 @@ Lab 6: Analysis of Page Gardner Voter Participation Center  |  https://github.co
 Lab 7: Predicting Voter Turnout  | https://github.com/joshuakalla/data_science_campaigns/blob/master/Labs/Lab6/lab06.ipynb
 Lab 8: How to get hired as data analyst for Enroll America  |  https://github.com/joshuakalla/data_science_campaigns/blob/master/Labs/Lab6/lab06.ipynb
   |
+
+
+## Data Science Resources
+
+[UC Berkeley Data Science courses]()
+[Jupyter.org](https://jupyter.org/)
+
+UC Berkeley Data Science | Links
+:---- |:----
+DS 8 |
+DS 100|
