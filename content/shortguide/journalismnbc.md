@@ -43,9 +43,9 @@ Florida  |   ||
 ## Pages to read
 Page | Summary
 :--- | :---
-[NBC national resources](../journalism/nbcactions.html)
-[Reporter's Questions for voting jurisdiction](../journalism/questions.html)
-[Reporter's Resources: Organizations](../resources/organizations.html)
-[Reporter's Resources: People](../resources.people.html)
-[Daily Election News](../journalism/electionnews.html)
-[Data Journalism](../journalism/datajournalism.html)
+[NBC national resources](../journalism/nbcactions.html)|
+[Reporter's Questions for voting jurisdiction](../journalism/questions.html)|
+[Reporter's Resources: Organizations](../resources/organizations.html)|
+[Reporter's Resources: People](../resources.people.html)|
+[Daily Election News](../journalism/electionnews.html)|
+[Data Journalism](../journalism/datajournalism.html)|
