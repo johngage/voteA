@@ -5,6 +5,7 @@ The condensed version of this site.  Ten minute read.
 
 Page | Summary
 :--- | :---
+[NBC and Data Journalism](./intro.html) |  Overview of conjunction of news and data science
 [NBC national resources](../journalism/nbcactions.html)|
 [Reporter's Questions for voting jurisdiction](../journalism/questions.html)|
 [Reporter's Resources: Organizations](../resources/organizations.html)|
