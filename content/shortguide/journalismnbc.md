@@ -38,4 +38,7 @@ Florida  |   ||
 - Find NBC stations that cover those jurisdictions; add 1 FTE Coordinator at each (split cost)
 -
 
-- Match NBC station locations to
+- Match NBC station locations to critical swing districts, and the students that live there
+
+## Pages to read
+[NBC national resources](../journalism/nbcactions.html)
