@@ -15,8 +15,8 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
   - builds local-specific data sets; builds analytic framework; builds local data sets; builds local connections
   - organizes teams in Michigan, Wisconson, Pennsylvania, Kentucky, Ohio, Florida
 
-  State | Station | Data Partner |Critical swing district
-  :--- | :--- |:--- |:---
+State | Station | Data Partner |Critical swing district
+:--- | :--- |:--- |:---
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.||
 Michigan |Grand Rapids – WOOD-TV 8.||
