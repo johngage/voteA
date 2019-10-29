@@ -15,6 +15,7 @@ Reporter | Organization | Story
 Nicole Perlroth  | New York Times  |
 [Timothy Pratt](https://www.theatlantic.com/author/timothy-pratt/)| The Atlantic |
 [Undark](https://www.theatlantic.com/author/undark/)  | The Atlantic  |
+[Steve Kornacki](http://www.msnbc.com/msnbc-live/steve-kornacki-biography)   |  MSNBC |
 
 Election Directors |Title| Organization | Contractors
 :--- | :--- | :--- | :---

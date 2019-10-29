@@ -7,13 +7,13 @@ The condensed version of this site.  Ten minute read.
 Page | Summary
 :--- | :---
 [Data Science and Data Journalism](../intro.html) |  Overview of conjunction of news and data science  |
-[Data Science resources](../datascience/jupyternotebooklist.html)|
-[Data Science Questions for voting jurisdiction](../journalism/questions.html)|
-[Data Science Resources: Organizations](../resources/organizations.html)|
-[Data Science Resources: People](../resources/people.html)|
-[Daily Election News](../journalism/electionnews.html)|
-[Daily Reporters to check](../journalism/reporters.html)
-[Data Journalism](../journalism/datajournalism.html)|
+[Data Science resources](../datascience/jupyternotebooklist.html)|List of powerful data science analyses of elections and voting by leading data scientists
+[Data Science Questions for voting jurisdiction](../journalism/questions.html)| Data dictionary template for Open Data initiatives
+[Data Science Resources: Organizations](../resources/organizations.html)|Active analytic entities in election space
+[Data Science Resources: People](../resources/people.html)|Expert list in voting, cybersecurity,analysis
+[Daily Election News](../journalism/electionnews.html)|Daily updates on voting and election news
+[Daily Reporters to check](../journalism/reporters.html)| Active journalists; will build list of those who use data science tools:JN, statistical analysis, inference from data
+[Data Journalism](../journalism/datajournalism.html)|Beginning discussion of fundamental data journalism precepts
 
 ## Proposed Actions
 - Build curriculum based on US 2020 Elections
