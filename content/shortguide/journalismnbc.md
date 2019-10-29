@@ -6,12 +6,12 @@ The condensed version of this site.  Ten minute read.
 Page | Summary
 :--- | :---
 [NBC and Data Journalism](../intro.html) |  Overview of conjunction of news and data science
-[NBC national resources](../journalism/nbcactions.html)|
-[Reporter's Questions for voting jurisdiction](../journalism/questions.html)|
-[Reporter's Resources: Organizations](../resources/organizations.html)|
-[Reporter's Resources: People](../resources/people.html)|
-[Daily Election News](../journalism/electionnews.html)|
-[Data Journalism](../journalism/datajournalism.html)|
+[NBC National Resources](../journalism/nbcactions.html)|Proposals for specific NBC actions (no budget proposed)
+[Reporter's Questions for voting jurisdiction](../journalism/questions.html)| Basic jurisdiction background data
+[Reporter's Resources: Organizations](../resources/organizations.html)| Organizations; Conferences
+[Reporter's Resources: People](../resources/people.html)|Experts
+[Daily Election News](../journalism/electionnews.html)|Daily News about elections, cybersecurity
+[Data Journalism](../journalism/datajournalism.html)|First pass on recruiting 10,000 data scientists
 
 ## Proposed Actions
 
