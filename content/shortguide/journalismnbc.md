@@ -21,7 +21,7 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
   - Develops data teams in 10K jurisdictions.
   - Develops reporter templates for all high schools and all higher education.
   - Works with national election-related organizations: EAC, DHS, ACLU, US Vote, Voter Participation Center,...
-  - 1 FTE : New York. Coordinate w/ MSNBC/NBC Election teams
+  - 1 FTE : New York. Coordinate w/ MSNBC/NBC Election teams; coordinate with NEP;
 
 
 - **NBCSwing**: targeted at critical swing state jurisdictions.
