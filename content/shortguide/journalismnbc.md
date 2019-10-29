@@ -17,21 +17,21 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
   State | Station | Data Partner |Critical swing district
   :--- | :--- |:--- |:---
-Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)
-Michigan |Detroit – WDIV-TV 4.
-Michigan |Grand Rapids – WOOD-TV 8.
-Michigan| Marquette – WLUC-TV 6.
+Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
+Michigan |Detroit – WDIV-TV 4.||
+Michigan |Grand Rapids – WOOD-TV 8.||
+Michigan| Marquette – WLUC-TV 6.||
 Michigan |Onondaga (Lansing) – WILX-TV 10.| |Eaton, Michigan-flipped for Trump;
-Michigan|Saginaw (Flint) – WEYI-TV 25.
-Michigan|Traverse City – WPBN-TV 7.  |
-Wisconson  |   |
-Pennsylvania  |   |
-Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University
-Kentucky  | Louisville – WAVE 3  |University of Louisville; [Jefferson Community and Technical College](https://en.wikipedia.org/wiki/Jefferson_Community_and_Technical_College); Bellarmine University;
-Kentucky  | Bowling Green – WNKY 40  |
-Kentucky  | Paducah – WPSD-TV 6  |
-Ohio  |   |
-Florida  |   |
+Michigan|Saginaw (Flint) – WEYI-TV 25.||
+Michigan|Traverse City – WPBN-TV 7.  ||
+Wisconson  |   ||
+Pennsylvania  |   ||
+Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University|
+Kentucky  | Louisville – WAVE 3  |University of Louisville; [Jefferson Community and Technical College](https://en.wikipedia.org/wiki/Jefferson_Community_and_Technical_College); Bellarmine University;|
+Kentucky  | Bowling Green – WNKY 40  ||
+Kentucky  | Paducah – WPSD-TV 6  ||
+Ohio  |   ||
+Florida  |   ||
 
  What can be done now:
 - Focus on swing states, pick 20 jurisdictions
