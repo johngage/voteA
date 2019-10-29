@@ -21,7 +21,7 @@ Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.||
 Michigan |Grand Rapids – WOOD-TV 8.||
 Michigan| Marquette – WLUC-TV 6.||
-Michigan |Onondaga (Lansing) – WILX-TV 10.| |Eaton, Michigan-flipped for Trump;
+Michigan |Onondaga (Lansing) – WILX-TV 10.|[Lansing Community College](https://en.wikipedia.org/wiki/Lansing_Community_College); [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University); |Eaton, Michigan-flipped for Trump;
 Michigan|Saginaw (Flint) – WEYI-TV 25.||
 Michigan|Traverse City – WPBN-TV 7.  ||
 Wisconson  |   ||
