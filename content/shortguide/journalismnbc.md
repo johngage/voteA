@@ -5,7 +5,7 @@ The condensed version of this site.  Ten minute read.
 
 Page | Summary
 :--- | :---
-This page  |
+**This page**  |Lists NBC affiliates in swing states, and education partners for NBC DataCorps
 [NBC and Data Journalism](../intro.html) |  Overview of conjunction of news and data science
 [NBC National Resources](../journalism/nbcactions.html)|Proposals for specific NBC actions (no budget proposed)
 [Reporter's Questions for voting jurisdiction](../journalism/questions.html)| Basic jurisdiction background data
