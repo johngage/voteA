@@ -35,6 +35,7 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
 State | Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
+Michigan  |   |   |  
 Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 | |Macomb, Wayne, Oakland, Kent
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.|**Wayne State**, University of Detroit Mercy, **Wayne County Community College**, **Oakland Community College**, Lawrence Technological University, **Oakland University**, Islamic American University, Rochester College, Midwestern Baptist College, **Macomb Community College**|Oakland, Macomb
