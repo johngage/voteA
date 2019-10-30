@@ -5,7 +5,7 @@ The condensed version of this site.  Ten minute read.
 
 Page | Summary
 :--- | :---
-This page  |  
+This page  |
 [NBC and Data Journalism](../intro.html) |  Overview of conjunction of news and data science
 [NBC National Resources](../journalism/nbcactions.html)|Proposals for specific NBC actions (no budget proposed)
 [Reporter's Questions for voting jurisdiction](../journalism/questions.html)| Basic jurisdiction background data
@@ -35,7 +35,7 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
 State | Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
-Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 |Macomb, Wayne, Oakland, Kent  |
+Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 ||Macomb, Wayne, Oakland, Kent  
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.|**Wayne State**, University of Detroit Mercy, **Wayne County Community College**, **Oakland Community College**, Lawrence Technological University, **Oakland University**, Islamic American University, Rochester College, Midwestern Baptist College, **Macomb Community College**|Oakland, Macomb
 Michigan |Grand Rapids – WOOD-TV 8.||
