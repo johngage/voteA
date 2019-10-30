@@ -34,8 +34,9 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
 State | Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
+Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 |Macomb, Wayne, Oakland, Kent  |
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
-Michigan |Detroit – WDIV-TV 4.||
+Michigan |Detroit – WDIV-TV 4.|**Wayne State**, University of Detroit Mercy, **Wayne County Community College**, **Oakland Community College**, Lawrence Technological University, **Oakland University**, Islamic American University, Rochester College, Midwestern Baptist College, **Macomb Community College**|Oakland, Macomb
 Michigan |Grand Rapids – WOOD-TV 8.||
 Michigan| Marquette – WLUC-TV 6.||
 Michigan |Onondaga (Lansing) – WILX-TV 10.|[Lansing Community College](https://en.wikipedia.org/wiki/Lansing_Community_College); [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University); |Eaton, Michigan-flipped for Trump;
