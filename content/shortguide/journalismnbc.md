@@ -35,7 +35,7 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
 State | Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
-Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 ||Macomb, Wayne, Oakland, Kent  
+Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 | |Macomb, Wayne, Oakland, Kent
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.|**Wayne State**, University of Detroit Mercy, **Wayne County Community College**, **Oakland Community College**, Lawrence Technological University, **Oakland University**, Islamic American University, Rochester College, Midwestern Baptist College, **Macomb Community College**|Oakland, Macomb
 Michigan |Grand Rapids – WOOD-TV 8.||
@@ -43,14 +43,34 @@ Michigan| Marquette – WLUC-TV 6.||
 Michigan |Onondaga (Lansing) – WILX-TV 10.|[Lansing Community College](https://en.wikipedia.org/wiki/Lansing_Community_College); [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University); |Eaton, Michigan-flipped for Trump;
 Michigan|Saginaw (Flint) – WEYI-TV 25.||
 Michigan|Traverse City – WPBN-TV 7.  ||
-Wisconson  |   ||
+   |   |   |
+Wisconson  |Eau Claire (La Crosse) – [WEAU 13](https://en.wikipedia.org/wiki/WEAU)   |Chippewa Valley Technical College, University of Wisconsin–Eau Claire, University of Wisconsin–La Crosse, Viterbo University, Western Technical College|
+Wisconson  |Green Bay – [WGBA-TV 26](https://en.wikipedia.org/wiki/WGBA-TV)   |Northeast Wisconson Technical College, Rasmussen College, Univ Wisconson-Green Bay, Bellin College|
+Wisconson  | Madison – WMTV 15  |University of Wisconson|
+Wisconson  | Milwaukee – WTMJ-TV 4  ||
+Wisconson  |Rhinelander (Wausau) – WJFW-TV 12   ||
+Wisconson  |Superior (Duluth, Minnesota) – KBJR-TV 6   ||
+|   |   |   |
 Pennsylvania  |   ||
+|   |   |   |
 Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University|
 Kentucky  | Louisville – WAVE 3  |University of Louisville; [Jefferson Community and Technical College](https://en.wikipedia.org/wiki/Jefferson_Community_and_Technical_College); Bellarmine University;|
 Kentucky  | Bowling Green – WNKY 40  ||
 Kentucky  | Paducah – WPSD-TV 6  ||
+|   |   |   |
 Ohio  |   ||
+Ohio|Cincinnati – WLWT 5||
+Ohio|Cleveland – WKYC 3||
+Ohio|Columbus – WCMH-TV 4||
+Ohio|Dayton – WDTN 2||
+Ohio|Lima – WLIO 8||
+Ohio|Steubenville (Wheeling, West Virginia) – WTOV-TV 9||
+Ohio|Toledo – WNWO-TV 24||
+Ohio|Youngstown – WFMJ-TV 21||
+Ohio|Zanesville – WHIZ-TV 18||
+|   |   |   |
 Florida  |   ||
+|   |   |   |
 
  What can be done now:
 - Focus on swing states, pick 20 - 50 jurisdictions
