@@ -52,7 +52,7 @@ North Carolina  |||
 Ohio  |||
 Pennsylvania  |||
 Wisconson  |||
-  
+
 
 State | NBC Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
@@ -66,7 +66,8 @@ Michigan |Onondaga (Lansing) – WILX-TV 10.|[Lansing Community College](https:/
 Michigan|Saginaw (Flint) – WEYI-TV 25.||
 Michigan|Traverse City – WPBN-TV 7.  ||
 |   |   |   |
-Wisconson|  Votes cast: 2,976,150; Trump margin: 22,748; |   |   |
+Wisconson|  |||
+Votes cast: 2,976,150; Trump margin: 22,748; |   |   |  |
 Wisconson  |Eau Claire (La Crosse) – [WEAU 13](https://en.wikipedia.org/wiki/WEAU)   |Chippewa Valley Technical College, University of Wisconsin–Eau Claire, University of Wisconsin–La Crosse, Viterbo University, Western Technical College|
 Wisconson  |Green Bay – [WGBA-TV 26](https://en.wikipedia.org/wiki/WGBA-TV)   |Northeast Wisconson Technical College, Rasmussen College, Univ Wisconson-Green Bay, Bellin College|
 Wisconson  | Madison – WMTV 15  |University of Wisconson|
@@ -77,6 +78,7 @@ Wisconson  |Superior (Duluth, Minnesota) – KBJR-TV 6   ||
 Pennsylvania  |   ||
 Votes cast: 6,115,402; Trump margin: 44,292|   |   |   |
 Pennsylvania|   |   | Luzerne, Schuylkill (Wilkes-Barre and environs), Westmoreland, Washington
+  |   |   |  
 Kentucky  |   |   |
 Votes cast: 1,924,149; Trump margin:  |   |   |
 Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University|
