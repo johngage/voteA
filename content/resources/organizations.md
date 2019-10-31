@@ -12,12 +12,14 @@ Organization | Full Name | Focus | Contact
 
 Organization | Full Name | Focus | Contact
 :--- | :---: | :--- | :---
-NASED |National Association of State Election Directors   |   Professional association of state chief election officials in the states |
-Election Center   | National Association of Election Officials  | Training and certification of election administrators and other election professionals  |
-EAC   | Election Assistance Commission   |   |
+NASS  | [National Association of Secretaries of State](https://www.nass.org/) |   |
+NASED |[National Association of State Election Directors](https://www.nased.org/)   |   Professional association of state chief election officials in the states |
+[Election Center](https://www.electioncenter.org/) (NASEO)  | [National Association of Election Officials]()  | Training and certification of election administrators and other election professionals  |
+EAC   | [Election Assistance Commission](https://eac.gov)   |   |
 EAC Standards Board   |   | 110 members  |
 EAC Board of Advisors   |   |  35 members |
 EAC TGDC   | Technical Guidelines Development Committee   |15 members   |
+[EAC Reports](https://www.eac.gov/research-and-data/studies-and-reports/)  | [EAC 2018 EAVS](https://www.eac.gov/assets/1/6/2018_EAVS_Report.pdf) |   |
 DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masterson@hq.dhs.gov
 [DARPA](https://www.darpa.mil/about-us/about-darpa)  |   | Develop proveably correct hardware and software; cybersecurity  |
 [NIST](https://www.nist.gov/)|   | Develop technical standards for election security   |
@@ -25,7 +27,7 @@ DHS   | Department of Homeland Security   |   |Matthew Masterson matthew.masters
 
 
 ## Books
-  - Barbara Simons:
+  - Barbara Simons: Broken Ballots;
 
 ## Articles
   - [CBS](https://www.cbsnews.com/news/the-nsa-prepares-to-defend-2020-elections-drawing-lessons-from-2018-midterms/)

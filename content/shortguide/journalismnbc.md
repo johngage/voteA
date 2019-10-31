@@ -2,6 +2,7 @@
 #### Update: 29 Oct 2019
 ## Pages to read
 The condensed version of this site.  Ten minute read.
+The growing Table of Contents shows how this site continues to add new data sets, new news and election websites, and new data analysis templates. The eight pages below focus on immediate actions to build election data journalism.
 
 Page | Summary
 :--- | :---
@@ -33,10 +34,29 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
   - 1 FTE: New York; coordinate with top 10 affiliates covering critical jurisdictions
   - 1/2 FTE in each station; outreach to data partners
 
+[2016 Results](https://docs.google.com/spreadsheets/d/133Eb4qQmOxNvtesw2hdVns073R68EZx4SfCnP4IGQf8/htmlview?sle=true#gid=19)
+
+State| Margin
+:--- | :---
+Arizona  |
+Colorado  |
+Florida  |
+Iowa  |
+Maine  |
+Michigan  |
+Minnesota  |
+Nevada  |
+New Hampshire  |
+North Carolina  |
+Ohio  |
+Pennsylvania  |
+Wisconson  |
+  |
+
 State | Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
-Michigan  |   |   |  
-Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 | |Macomb, Wayne, Oakland, Kent
+Michigan  |   |   |
+Votes cast: 4,799,284; Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 | |Macomb, Wayne, Oakland, Kent
 Michigan | Cheboygan – WTOM-TV 4 (satellite of WPBN-TV)||
 Michigan |Detroit – WDIV-TV 4.|**Wayne State**, University of Detroit Mercy, **Wayne County Community College**, **Oakland Community College**, Lawrence Technological University, **Oakland University**, Islamic American University, Rochester College, Midwestern Baptist College, **Macomb Community College**|Oakland, Macomb
 Michigan |Grand Rapids – WOOD-TV 8.||
@@ -44,7 +64,8 @@ Michigan| Marquette – WLUC-TV 6.||
 Michigan |Onondaga (Lansing) – WILX-TV 10.|[Lansing Community College](https://en.wikipedia.org/wiki/Lansing_Community_College); [Michigan State University](https://en.wikipedia.org/wiki/Michigan_State_University); |Eaton, Michigan-flipped for Trump;
 Michigan|Saginaw (Flint) – WEYI-TV 25.||
 Michigan|Traverse City – WPBN-TV 7.  ||
-   |   |   |
+|   |   |   |
+Wisconson|  Votes cast: 2,976,150; Trump margin: 22,748; |   |   |
 Wisconson  |Eau Claire (La Crosse) – [WEAU 13](https://en.wikipedia.org/wiki/WEAU)   |Chippewa Valley Technical College, University of Wisconsin–Eau Claire, University of Wisconsin–La Crosse, Viterbo University, Western Technical College|
 Wisconson  |Green Bay – [WGBA-TV 26](https://en.wikipedia.org/wiki/WGBA-TV)   |Northeast Wisconson Technical College, Rasmussen College, Univ Wisconson-Green Bay, Bellin College|
 Wisconson  | Madison – WMTV 15  |University of Wisconson|
@@ -53,13 +74,17 @@ Wisconson  |Rhinelander (Wausau) – WJFW-TV 12   ||
 Wisconson  |Superior (Duluth, Minnesota) – KBJR-TV 6   ||
 |   |   |   |
 Pennsylvania  |   ||
-|   |   |   |
+Votes cast: 6,115,402; Trump margin: 44,292|   |   |   |
+Pennsylvania|   |   | Luzerne, Schuylkill (Wilkes-Barre and environs), Westmoreland, Washington
+Kentucky  |   |   |
+Votes cast: 1,924,149; Trump margin:  |   |   |
 Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University|
 Kentucky  | Louisville – WAVE 3  |University of Louisville; [Jefferson Community and Technical College](https://en.wikipedia.org/wiki/Jefferson_Community_and_Technical_College); Bellarmine University;|
 Kentucky  | Bowling Green – WNKY 40  ||
 Kentucky  | Paducah – WPSD-TV 6  ||
 |   |   |   |
 Ohio  |   ||
+Votes cast: 5,496,487; Trump margin: 446,841|   |   |   |
 Ohio|Cincinnati – WLWT 5||
 Ohio|Cleveland – WKYC 3||
 Ohio|Columbus – WCMH-TV 4||
@@ -71,7 +96,11 @@ Ohio|Youngstown – WFMJ-TV 21||
 Ohio|Zanesville – WHIZ-TV 18||
 |   |   |   |
 Florida  |   ||
-|   |   |   |
+Votes cast: 9,420,039; Trump margin: 112,911|   |   |   |
+|   |   |   |   |
+North Carolina|   |   |   |   |
+Votes cast:4,741,564; Trump margin: 173,315 |   |   |   |   |   |
+
 
  What can be done now:
 - Focus on swing states, pick 20 - 50 jurisdictions

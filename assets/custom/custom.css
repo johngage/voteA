@@ -5,3 +5,7 @@
     float: left;
 }
 #NewText {display: none;}
+h2 {color:purple;}
+h3 {color: orange;}
+
+#js-page__nav__next {color:red}
