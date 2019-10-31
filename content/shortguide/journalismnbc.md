@@ -1,7 +1,8 @@
 #NBC-specific Actions for Election2020
 #### Update: 29 Oct 2019
-## Pages to read
-The condensed version of this site.  Ten minute read.
+### Pages to read
+Condensed version of this site.  Ten minute read.
+
 The growing Table of Contents shows how this site continues to add new data sets, new news and election websites, and new data analysis templates. The eight pages below focus on immediate actions to build election data journalism.
 
 Page | Summary
@@ -36,24 +37,24 @@ Create two NBC Data Journalism initiatives, with a third, **NBC.Critical**, comi
 
 [2016 Results](https://docs.google.com/spreadsheets/d/133Eb4qQmOxNvtesw2hdVns073R68EZx4SfCnP4IGQf8/htmlview?sle=true#gid=19)
 
-State| Margin
-:--- | :---
-Arizona  |
-Colorado  |
-Florida  |
-Iowa  |
-Maine  |
-Michigan  |
-Minnesota  |
-Nevada  |
-New Hampshire  |
-North Carolina  |
-Ohio  |
-Pennsylvania  |
-Wisconson  |
-  |
+Swing State| Margin |Swing Counties|GOTV Counties
+:--- | :--- | :---| :---
+Arizona  |||
+Colorado  |||
+Florida  |||
+Iowa  |||
+Maine  |||
+Michigan  ||McComb, Oakland, Kent|Wayne
+Minnesota  |||
+Nevada  |||
+New Hampshire  |||
+North Carolina  |||
+Ohio  |||
+Pennsylvania  |||
+Wisconson  |||
+  
 
-State | Station | Data Partner |Critical swing district
+State | NBC Station | Data Partner |Critical swing district
 :--- | :--- |:--- |:---
 Michigan  |   |   |
 Votes cast: 4,799,284; Trump margin 2016:  10,704 | Counties:Trump won 75 of 83; flipped 12 | |Macomb, Wayne, Oakland, Kent
