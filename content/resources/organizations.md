@@ -7,6 +7,10 @@ Organization | Full Name | Focus | Contact
 [NYU Brennan Center For Justice ]() | |Examine all aspects of elections |
 [Democracy Works](https://www.democracy.works/)   |   |   |
 [Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
+[Heritage Foundation](https://www.heritage.org/election-integrity)   |   |   |
+[Common Cause](https://www.commoncause.org/our-work/voting-and-elections/election-integrity/)   |   |   |
+[Electoral Integrity Project:Harvard](https://www.electoralintegrityproject.com/)   |   |   |
+[National Election Defense Coalition](https://www.electiondefense.org/about)   |   |   |
 
 
 
