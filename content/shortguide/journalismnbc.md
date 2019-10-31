@@ -11,7 +11,7 @@ Page | Summary
 [NBC and Data Journalism](../intro.html) |  Overview of conjunction of news and data science
 [NBC National Resources](../journalism/nbcactions.html)|Proposals for specific NBC actions (no budget proposed)
 [Reporter's Questions for voting jurisdiction](../journalism/questions.html)| Basic jurisdiction background data
-[Reporter's Resources: Organizations](../resources/organizations.html)| Organizations; Conferences
+[Reporter's Resources: Organizations](../resources/organizations.html)|Election Integrity Organizations; Student Journalism Conferences; Editors and News Directors
 [Reporter's Resources: People](../resources/people.html)|Experts
 [Daily Election News](../journalism/electionnews.html)|Daily News about elections, cybersecurity
 [Data Journalism](../journalism/datajournalism.html)|First pass on recruiting 10,000 data scientists
@@ -78,7 +78,7 @@ Wisconson  |Superior (Duluth, Minnesota) – KBJR-TV 6   ||
 Pennsylvania  |   ||
 Votes cast: 6,115,402; Trump margin: 44,292|   |   |   |
 Pennsylvania|   |   | Luzerne, Schuylkill (Wilkes-Barre and environs), Westmoreland, Washington
-  |   |   |  
+  |   |   |
 Kentucky  |   |   |
 Votes cast: 1,924,149; Trump margin:  |   |   |
 Kentucky  |[Lexington: WLEX-TV 18](https://www.lex18.com/)   |  University of Kentucky; Indiana Wesleyan; Commonwealth Baptist College; Bluegrass Community College; American National University|
