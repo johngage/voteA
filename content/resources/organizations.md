@@ -2,8 +2,8 @@
 
 Organization | Full Name | Focus | Contact
 :--- | :---: | :--- | :---
-[Verified Voting](https://www.verifiedvoting.org/) | |Secure and verifiable election systems |
-[OSET]() | |Develop open-source software to implement elements of election process |
+[Verified Voting](https://www.verifiedvoting.org/) | |Secure and verifiable election systems |Barbara Simons,
+[OSET]() | |Develop open-source software to implement elements of election process |Greg Miller, John Sebes
 [NYU Brennan Center For Justice ]() | |Examine all aspects of elections |
 [Democracy Works](https://www.democracy.works/)   |   |   |
 [Free and Fair](https://github.com/FreeAndFair/ColoradoRLA) |   |   |
@@ -11,6 +11,7 @@ Organization | Full Name | Focus | Contact
 [Common Cause](https://www.commoncause.org/our-work/voting-and-elections/election-integrity/)   |   |   |
 [Electoral Integrity Project:Harvard](https://www.electoralintegrityproject.com/)   |   |   |
 [National Election Defense Coalition](https://www.electiondefense.org/about)   |   |   |
+[Center for Election Innovation and Research](https://electioninnovation.org/in-the-news/)  |   | Good news feed  |David  Becker, Jeff Jonas
 
 
 
