@@ -2,7 +2,7 @@
 # Useful for MyBinder configuration
 3.6.5
 python == 3.6.5
-pip == 19.3.3
+pip == 19.3.1
 pandas
 numpy
 datascience
