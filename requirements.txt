@@ -1,7 +1,7 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
-3.6.5
-python == 3.6.5
+3.7
+python == 3.7
 pip == 19.3.1
 pandas
 numpy
