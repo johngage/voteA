@@ -1,7 +1,7 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
 pip >= 19.3.1
-python >=  3.6.0
+3.6.5
 pandas
 numpy
 datascience
